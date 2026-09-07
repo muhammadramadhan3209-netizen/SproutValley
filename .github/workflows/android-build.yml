@@ -38,8 +38,8 @@ jobs:
         run: |
           npm ls phaser vite
 
-- name: Test game logic
-  run: npm test || echo "2 test lama gagal, lanjut build APK"
+      - name: Test game logic
+        run: npm test || echo "2 legacy tests failed, continue APK build"
 
       - name: Build web
         run: npm run build
