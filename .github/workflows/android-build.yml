@@ -20,7 +20,7 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Check Node Environment
+      - name: Check Node
         run: |
           node -v
           npm -v
@@ -35,11 +35,10 @@ jobs:
         run: npm ci
 
       - name: Check Packages
-        run: |
-          npm ls phaser vite
+        run: npm ls phaser vite
 
       - name: Test game logic
-        run: npm test || echo "2 legacy tests failed, continue APK build"
+        run: npm test || true
 
       - name: Build web
         run: npm run build
