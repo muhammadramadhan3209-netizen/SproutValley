@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sprout Valley</string>
+    <string name="title_activity_main">Sprout Valley</string>
+    <string name="package_name">com.sproutvalley.app</string>
+    <string name="custom_url_scheme">com.sproutvalley.app</string>
+</resources>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#3a7d44" />
+    <title>Sprout Valley</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        overscroll-behavior: none;
+        overflow: hidden;
+        background: #2d2a23;
+        font-family: sans-serif;
+        touch-action: none;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-user-select: none;
+        user-select: none;
+      }
+
+      #game {
+        position: fixed;
+        inset: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+        display: block;
+      }
+
+      #game canvas {
+        display: block;
+        image-rendering: pixelated;
+        image-rendering: crisp-edges;
+        touch-action: none;
+      }
+      #rotate-device {
+        position: fixed;
+        inset: 0;
+        z-index: 10;
+        background: #2d2a23;
+        color: #f4e4bc;
+        display: grid;
+        place-items: center;
+        text-align: center;
+        padding: 24px;
+        font-size: 20px;
+      }
+      #rotate-device[hidden] { display: none; }
+    </style>
+  </head>
+  <body>
+    <div id="game"></div>
+    <div id="rotate-device" hidden>Rotate your phone to landscape</div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

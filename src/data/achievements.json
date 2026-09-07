@@ -1,0 +1,64 @@
+{
+  "first_harvest": {
+    "id": "first_harvest",
+    "title": "First Harvest",
+    "description": "Harvest your first crop.",
+    "trigger": "harvest",
+    "targetId": null,
+    "target": 1,
+    "reward": {
+      "gold": 50,
+      "items": []
+    }
+  },
+  "fisherman": {
+    "id": "fisherman",
+    "title": "Fisherman",
+    "description": "Catch 10 fish.",
+    "trigger": "catch_fish",
+    "targetId": null,
+    "target": 10,
+    "reward": {
+      "gold": 0,
+      "items": [
+        { "id": "material_wood", "quantity": 5 }
+      ]
+    }
+  },
+  "decorator": {
+    "id": "decorator",
+    "title": "Decorator",
+    "description": "Place 10 decorations on the farm.",
+    "trigger": "place_decoration",
+    "targetId": null,
+    "target": 10,
+    "reward": {
+      "gold": 150,
+      "items": []
+    }
+  },
+  "rich_farmer": {
+    "id": "rich_farmer",
+    "title": "Rich Farmer",
+    "description": "Earn 1000 gold total.",
+    "trigger": "earn_gold",
+    "targetId": null,
+    "target": 1000,
+    "reward": {
+      "gold": 200,
+      "items": []
+    }
+  },
+  "quest_master": {
+    "id": "quest_master",
+    "title": "Quest Master",
+    "description": "Complete 4 quests.",
+    "trigger": "complete_quest",
+    "targetId": null,
+    "target": 4,
+    "reward": {
+      "gold": 250,
+      "items": []
+    }
+  }
+}

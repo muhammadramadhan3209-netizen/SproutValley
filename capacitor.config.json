@@ -1,0 +1,13 @@
+{
+  "appId": "com.sproutvalley.app",
+  "appName": "Sprout Valley",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#2d2a23"
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

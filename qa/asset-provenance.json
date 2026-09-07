@@ -1,0 +1,23 @@
+[
+  {
+    "public_path": "public/assets/images/farming/crop_items.png",
+    "matching_original_pack_files": [
+      "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Farming Plants items v2.png"
+    ],
+    "sha256": "6f420579bd3d3ebb85270d1db06e2a7eecee15facecb9189fc911bea7e058a4c"
+  },
+  {
+    "public_path": "public/assets/images/objects/fences.png",
+    "matching_original_pack_files": [
+      "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Fences.png"
+    ],
+    "sha256": "211ecb752d2bc8cc434662440d6cd864d58d8ce4720063964cac27e59559c52b"
+  },
+  {
+    "public_path": "public/assets/images/objects/furniture.png",
+    "matching_original_pack_files": [
+      "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Furniture.png"
+    ],
+    "sha256": "e41db496598994f1f55019d626256deb3a2419daed5ddc8fbf60f556b02d2e7a"
+  }
+]

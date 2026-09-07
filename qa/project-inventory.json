@@ -1,0 +1,2622 @@
+{
+  "source": "Uploaded SproutValley_V1.1.zip before edits",
+  "file_count": 430,
+  "files": [
+    {
+      "path": ".github/workflows/android-build.yml",
+      "bytes": 920,
+      "sha256": "a7596b18521371ce76f368cc70fd85ca9551f0438d6267dd80712af25882f774"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 215,
+      "sha256": "48caa8588e5dd31038a86f9faeb878601334e031194a56fd2ad2012161050f64"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/ATTRIBUTION.md",
+      "bytes": 834,
+      "sha256": "97b3cd820da73e12bba57b075a9638354bd552465379db2525bd4d1fdc15841e"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/LICENSE.txt",
+      "bytes": 1065,
+      "sha256": "416b78b60a8a8114277ce7dd165f41d725643013d55bc55e918a93f1ecd02db2"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/README.md",
+      "bytes": 2743,
+      "sha256": "0f8b34cb4d266e744df9d7d881aa65a1d3e838834db8a3f7825876ed8570e29f"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Furniture.png",
+      "bytes": 3397,
+      "sha256": "e41db496598994f1f55019d626256deb3a2419daed5ddc8fbf60f556b02d2e7a",
+      "png_width": 144,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Furniture.png.import",
+      "bytes": 823,
+      "sha256": "8cf80738c79c610cd361d16fb787cc82b62f6759ca2283a1fe7975aeada92a69"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Grass Biom things 1.png",
+      "bytes": 6129,
+      "sha256": "22938e24b511139f5552795429250fbdbbaeb6f5e849cab91bc83ac0a1f12586",
+      "png_width": 144,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Grass Biom things 1.png.import",
+      "bytes": 853,
+      "sha256": "3acaa9e249ec6cd581ad2df9ccb52c5a48f22639d3b1850521605c0fe763ce22"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Plants.png",
+      "bytes": 2274,
+      "sha256": "e9640d48e3080fae0b1f86e8c0dcc6e6c4286af0b830ceef5c7ecf60aec70fc0",
+      "png_width": 112,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic Plants.png.import",
+      "bytes": 813,
+      "sha256": "f6bc37e1f781ffc5c251ebcc140d5a1c14835eea10745e2494b24711536786b4"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic tools and meterials.png",
+      "bytes": 1474,
+      "sha256": "efb8ba38abb0e999fc54cbfc3d202dd2c0385c98b9bdaec41487317f789bbbd8",
+      "png_width": 48,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Basic tools and meterials.png.import",
+      "bytes": 853,
+      "sha256": "139040e604f4368e5543a4e1cc3d450c0747a35e5b53e36b2042df50c5bbd46f"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Chest.png",
+      "bytes": 1774,
+      "sha256": "9302a794b760634a27aea1aab2ed1a9c47098e5c31e1481345cd9891ae6edbdf",
+      "png_width": 240,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Chest.png.import",
+      "bytes": 793,
+      "sha256": "489b204b19db2fbf58c96f5986187aa1693745b2da1001a66f8f24c2e888ccc6"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Egg item.png",
+      "bytes": 270,
+      "sha256": "e71f6f910fbe67db96ab5f192b2131650b8eede89c9f0847c720490e5a968346",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Egg item.png.import",
+      "bytes": 802,
+      "sha256": "b9599c3d50cd379c0132c16118cc3692afe6c162383fb6fa0446bd9f28bb21d6"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Free_Chicken_House.png",
+      "bytes": 1113,
+      "sha256": "4f3b63af9e228d88916c452dc5401d77f321b98c523f274a3e388654d87d82d3",
+      "png_width": 48,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Free_Chicken_House.png.import",
+      "bytes": 831,
+      "sha256": "0662fecff65d6abcdc1e279c875268345f368fcedb0d72730025716d3e032a6e"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Paths.png",
+      "bytes": 622,
+      "sha256": "b58d1330c3fb9334d5524ed108f9f068fa2c350dd54501ff59350ac4d471124a",
+      "png_width": 64,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Paths.png.import",
+      "bytes": 793,
+      "sha256": "0c6bfa2bd9588a34ce7492d9c6f4f97629c5bff4418899a15a4f6f15eb4d26c1"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Simple Milk and grass item.png",
+      "bytes": 628,
+      "sha256": "0d84a6f984a199a4d5a4abd30d34450551ced0472224ec4be13310f38dc424b3",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Simple Milk and grass item.png.import",
+      "bytes": 856,
+      "sha256": "5e79807a5bcba56021a1fdec549a3c34db717f9c40acaa8e14f7e25311747d7d"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Wood Bridge.png",
+      "bytes": 706,
+      "sha256": "155a91eddb204f8e930158d1428528eb06cc17be9138fcc33b70fa5b83346d12",
+      "png_width": 80,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Objects/Wood Bridge.png.import",
+      "bytes": 810,
+      "sha256": "bac2f4cef03db86057921462467229e4d5f679edd6a5d8806c3c71bd23809cdf"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Fences.png",
+      "bytes": 483,
+      "sha256": "211ecb752d2bc8cc434662440d6cd864d58d8ce4720063964cac27e59559c52b",
+      "png_width": 64,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Fences.png.import",
+      "bytes": 796,
+      "sha256": "3f5c2b73896a1e17595d20c967178221d1c8791c1ab9afb8949cf1ac0e59e6d0"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Grass.png",
+      "bytes": 3971,
+      "sha256": "0e6038980b9fb559361cd5da0910412194191c849e15b1aa3a72805df38857f0",
+      "png_width": 160,
+      "png_height": 128
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Grass.png.import",
+      "bytes": 794,
+      "sha256": "9d0ddeb7f87f926c4646c7ab67a73c414ac01776e69341d0f957ebd9e841db36"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Hills.png",
+      "bytes": 2732,
+      "sha256": "931e8bfaf87f48fa6f4d8f194adcd49fb5c1d8050a1fe577cb8d0c2e074992f5",
+      "png_width": 96,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Hills.png.import",
+      "bytes": 794,
+      "sha256": "5cdbd08d65378747e9fc0abb2be000690611602b6898ec32776c0a522cda644b"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Tilled Dirt.png",
+      "bytes": 2037,
+      "sha256": "4ac254268b4d2176a19340bd561f8a5cbb544ad13953ba2cd877812840266b52",
+      "png_width": 128,
+      "png_height": 128
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Tilled Dirt.png.import",
+      "bytes": 811,
+      "sha256": "ef3e7932dae8c99731b718c4897fb0fce3d93730f93a9dba4300f5433b8ac33f"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Water.png",
+      "bytes": 251,
+      "sha256": "02ce64243bb17f62fff0bd44abf661ab5efb8dd6a85fd7e304e73e2fd3188f95",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Water.png.import",
+      "bytes": 794,
+      "sha256": "b5c6b03121d65536bc0339bbafd5afef40942bae7e20107a080399fabb797d5a"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Wooden House.png",
+      "bytes": 1784,
+      "sha256": "d146e9a5d2cc2a6c78bfa9a96f68f43eaa71a3081bac927b908f3e1c33ad9d0f",
+      "png_width": 112,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/Tilesets/Wooden House.png.import",
+      "bytes": 815,
+      "sha256": "959635ec29e8c09569b07a569a0bb93ebf0d68209749a340996e9381e8c04145"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/assets/read_me_art.txt",
+      "bytes": 698,
+      "sha256": "3b884a7316dd44c24fb3d75d641cd1c7abedcf25c7307041c38f2228d066f60a"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/base/scenes/sprout_lands_tile_map.tscn",
+      "bytes": 45089,
+      "sha256": "6f88f253e4382d9ed5c17b149b78f7dbe799b0a627abef40c50868e4aa8fd25b"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/examples/scenes/blank_sprout_lands_tile_map.tscn",
+      "bytes": 284,
+      "sha256": "9b2825e76dccc95d940440d844c874561a7ddfac9092930ecda381bed26e9a67"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/examples/scenes/harvest_hill_example.tscn",
+      "bytes": 450113,
+      "sha256": "7793e77bb1a5672c830473d2cd08962d8fc473fa213a8ecef5a575ae321f4bb3"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/icon.png",
+      "bytes": 5210,
+      "sha256": "cb553156d07d407307775139fccf6c60aed7d482c01bf5f121b7622db67f4dc5",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/icon.png.import",
+      "bytes": 774,
+      "sha256": "625e3c307454c34c98f7ec8d56a627b6a534928dc2d4865f7a499abc66ea5371"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/installer/CopyConfirmationDialog.tscn",
+      "bytes": 449,
+      "sha256": "d2c6464439bc075a358e6893cf63c3acd4a4964ee4b2d5d6048ccc25b7ea9d31"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/installer/DestinationDialog.tscn",
+      "bytes": 292,
+      "sha256": "6e28d83896769306ccf7861816e736e1e5c032d567216a1244ddc9e8146e57a3"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/.gdignore",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Example_Screenshot_1.png",
+      "bytes": 24576,
+      "sha256": "ff8340c93a0761fb032c3df8649c24f622071e5a186d1bbd210b136a30616427",
+      "png_width": 372,
+      "png_height": 324
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_1.png",
+      "bytes": 17439,
+      "sha256": "ee003678bb59640f135bcb3c988e7102c55c9271237c2dc5806df4109ad6e672",
+      "png_width": 372,
+      "png_height": 249
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_10.png",
+      "bytes": 11657,
+      "sha256": "32af2919c2b791883b75f3482f696ddb08a75d9e384d4980f05f1eb8e7391460",
+      "png_width": 356,
+      "png_height": 211
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_2.png",
+      "bytes": 9877,
+      "sha256": "1305edad977a77b129fabfefda6fcbaa37a8514a8fdfb5e5d13080072e0bade3",
+      "png_width": 372,
+      "png_height": 141
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_3.png",
+      "bytes": 17101,
+      "sha256": "c65dadf2664359a0fa01ce97fc41375a5c8a451daf0b6dca4d6ce18b079b076d",
+      "png_width": 606,
+      "png_height": 182
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_4.png",
+      "bytes": 18265,
+      "sha256": "a5c5d019562bfa92faf7b857f947c63d9fb22e8066d4864dd3eda6a6a182d9e9",
+      "png_width": 606,
+      "png_height": 222
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_5.png",
+      "bytes": 13362,
+      "sha256": "3bb8c1e179745b94843aede7ea39c86b5dee431eec6433191993145e0946c7c9",
+      "png_width": 371,
+      "png_height": 147
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_6.png",
+      "bytes": 7455,
+      "sha256": "1a99e0f9f2489fd5dd9fc76247589108763e806677cd9992a74c1a2bd0e026b2",
+      "png_width": 646,
+      "png_height": 51
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_7.png",
+      "bytes": 15454,
+      "sha256": "a65ffd8b9dd62d99ae65768525f4ecc2e3d4ddf07803bdfdb6b0b2b20d18bc2b",
+      "png_width": 270,
+      "png_height": 225
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_8.png",
+      "bytes": 18596,
+      "sha256": "6c10ead9b01d13789b5cc3fcdc370dd458db2f6a896578fc765ae8c2f6b9e033",
+      "png_width": 383,
+      "png_height": 225
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/media/Usage_Screenshot_9.png",
+      "bytes": 10506,
+      "sha256": "4c3a2df11420a9cfe18cbd0182c417e0d897fb77a873fdf19ad996eb379e3996",
+      "png_width": 383,
+      "png_height": 225
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/plugin.cfg",
+      "bytes": 237,
+      "sha256": "f8482e2061eceb586a26ffec48951fad2569d8a8eaa3ae46a4efac305d9931e3"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout-Lands-Tilemap-0.2.0/Sprout-Lands-Tilemap-0.2.0/addons/sprout_lands_tilemap/sprout_lands_tilemap.gd",
+      "bytes": 6283,
+      "sha256": "a3c21696807a609f9158d0a579540e6bd12a4eb762f7d63ceea7f53223ee9631"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.png",
+      "bytes": 5440,
+      "sha256": "274d16dbd45f97922820bbf3debf95bec05136b3a83caf66fd8232c44471fa82",
+      "png_width": 160,
+      "png_height": 480
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box  big.png",
+      "bytes": 958,
+      "sha256": "332287245099844d41f45d36d1137f60bee29b8ab41b7f379a31dd8f4d2f2bb3",
+      "png_width": 304,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box medium.png",
+      "bytes": 921,
+      "sha256": "b22e6393b02627625ef0f96ad18fb158b6d24c82ffbbf8f5690329cb241484a3",
+      "png_width": 240,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box small.png",
+      "bytes": 852,
+      "sha256": "2d9dbe34774f867b02f2daee6ec6a6dd8d09191d2352e44ca938f48ccd5debbd",
+      "png_width": 176,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box big.png",
+      "bytes": 515,
+      "sha256": "30b0aaa489a42a2d37c641f4e20c1737ba4538ee6012076b50121a4f6c10cdc4",
+      "png_width": 176,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box character finished talking click to continue indicator - spritesheet .png",
+      "bytes": 277,
+      "sha256": "f63ac92dbcaa4c4398aa5f0b1323921a7a12888c41e4dfe7bc0bf06bf0c9fe23",
+      "png_width": 112,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box medium.png",
+      "bytes": 539,
+      "sha256": "22a49ed5fc56fae85b88944c147f38b89f49d4d3ef083561d618e904e3dd30e6",
+      "png_width": 128,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box small.png",
+      "bytes": 491,
+      "sha256": "f2b7227b6e12c48db287614e4c31e1ac3ba4c2053ff6448cd9ee2ac43b47e76a",
+      "png_width": 112,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box.png",
+      "bytes": 404,
+      "sha256": "d9ea477b9d007f59870043d690cc597b1a5bf7aab0ddb27cff46f9c045d7d29a",
+      "png_width": 48,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/All Icons.png",
+      "bytes": 2292,
+      "sha256": "8cd848f0b6986a6be3036afb06ab74ffdd608e6a01d24816063e1c98dda03b3a",
+      "png_width": 288,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/Small Happines-Sadness icons.png",
+      "bytes": 985,
+      "sha256": "269273303e324512255dd76752820bc14aa6be46c0aba28671a6a6639e3be187",
+      "png_width": 96,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/Special Icons.png",
+      "bytes": 1378,
+      "sha256": "b659e2e38f410b077ed4f3b1c3070134d5572b5d8eb7b326218f9f8f34fee072",
+      "png_width": 112,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/white icons.png",
+      "bytes": 832,
+      "sha256": "cce218758fb9762db5d95350da83288f95ec4123eb1ce2ffc878540cf13758c1",
+      "png_width": 96,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw Mouse icon.png",
+      "bytes": 377,
+      "sha256": "450e7d301f149bf7630e0409033a6700ab335c71bc2bdc77ecf1e6dec7dc3386",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw holding Mouse icon.png",
+      "bytes": 386,
+      "sha256": "674bfb146a18bf5dffe3cb7447820eec8b5bb7ff03b06d96dec5df2c82570797",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw pointing Mouse icon.png",
+      "bytes": 379,
+      "sha256": "d06540157cb4597144b60b5a07ccdea8bfe64020efa529a3ebd78f871a05596c",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 1.png",
+      "bytes": 261,
+      "sha256": "c05b469d08fd179b5d9298f2f307cb91957441e071d75c506f01a186962b4159",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 2.png",
+      "bytes": 300,
+      "sha256": "17701fc14510bb6631a7656440b50f6347c28f4c516754a25ee44c309eca2515",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 3.png",
+      "bytes": 287,
+      "sha256": "3fe5d34aef4f0a9b74db3357ee087e004621f7b458aaa0ad9ece777d06c09bf6",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Setting menu.png",
+      "bytes": 1005,
+      "sha256": "03bec40f1dc337a149e5e5c401d9721fdb45b8a44dd289216746f0c6a34325f1",
+      "png_width": 256,
+      "png_height": 144
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Sprite sheet for Basic Pack.png",
+      "bytes": 26933,
+      "sha256": "ad05805f57fef0e5103310d0f92b2b7fb499d63693289f1504912a992cb733a5",
+      "png_width": 896,
+      "png_height": 240
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Big Play Button.png",
+      "bytes": 971,
+      "sha256": "0476a6007a829e30fd637201266e8f2b9827a86812ea7d0fd09903349c85fff0",
+      "png_width": 192,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Settings Buttons.png",
+      "bytes": 3323,
+      "sha256": "69b8dfa4b53ca9f60287dde0eaf572e80476237e0e7a4d8fe9ed92f1a38eccfd",
+      "png_width": 128,
+      "png_height": 240
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Small Square Buttons.png",
+      "bytes": 1584,
+      "sha256": "caf802f8084af87383f8769824eb8b2ef482aa9312b1b3a4d89bb2ea9b1d1dcb",
+      "png_width": 32,
+      "png_height": 128
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 19x26.png",
+      "bytes": 1314,
+      "sha256": "93886b8497a12f97060f1fab3653b29ad451c2ea611e4ca37e4754156ffdca89",
+      "png_width": 128,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x19.png",
+      "bytes": 1316,
+      "sha256": "c68906a6b15fe24c7e773becd6a3769d5ba052226416d56ee0e2f75f62fd091f",
+      "png_width": 96,
+      "png_height": 128
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x26.png",
+      "bytes": 1410,
+      "sha256": "249c4337da568adec91842ebe06d66fc160146507dc8394c35b34ef731175745",
+      "png_width": 96,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/Emoji_Spritesheet_Free.png",
+      "bytes": 31456,
+      "sha256": "078cf93dd4e8f6e72bca5fbc854f6154290086d6c2ad92c18d03158d15b7d002",
+      "png_width": 160,
+      "png_height": 608
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/Inventory_Blocks_Spritesheet.png",
+      "bytes": 1530,
+      "sha256": "adce975022f3b4ae97c1828ad13528d90c730138c561900bdf5b7a41e05867ea",
+      "png_width": 144,
+      "png_height": 144
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/Inventory_Herat_Spritesheet.png",
+      "bytes": 3306,
+      "sha256": "c5eb1ec30e3cbaebaa046ffdf98993947c4c68c724cc86236c151b0ebb79f3bb",
+      "png_width": 112,
+      "png_height": 336
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/Inventory_Light_Herat_Spritesheet.png",
+      "bytes": 3276,
+      "sha256": "9e2b30950e00cad9b1da524826651f0ab4754c4f8b906824ef76272e8e7cde10",
+      "png_width": 112,
+      "png_height": 336
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/Inventory_Light_example_with_slots_2.png",
+      "bytes": 1407,
+      "sha256": "1df8e84f460c3426c84b1e673136da5c0848a65a86da3676b6b7a976dbfa2b63",
+      "png_width": 304,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/Inventory_Spritesheet.png",
+      "bytes": 10413,
+      "sha256": "e8b954a1d6dcb7c5d14754cb4764500ec4e8aa59810af8ae3d4b4ddd389cf347",
+      "png_width": 368,
+      "png_height": 336
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_Light_example.png",
+      "bytes": 1088,
+      "sha256": "bb9b7d2abfa10ccfd3e3b302f298cbe9e01410bda91f76150d4ee79c8070cace",
+      "png_width": 352,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_Light_example_2.png",
+      "bytes": 1064,
+      "sha256": "401c0dbe48855d5d71c285b10fb68877a54d79fc17f3da2851cdad0bc6e3e5e1",
+      "png_width": 304,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_Light_example_with_slots.png",
+      "bytes": 1456,
+      "sha256": "8288e0fe1cdb3a8bb69fd6ae234777647ae77b2c325a86ac91d92146ecb62df4",
+      "png_width": 352,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_example.png",
+      "bytes": 1110,
+      "sha256": "57f7ae4a0d31acd407a07b7f5a02f74e885dfed77a295b3d2b392d851aec0e8b",
+      "png_width": 352,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_example_2.png",
+      "bytes": 1088,
+      "sha256": "537b8f806ae62e323a67067fe409d61ab9c96dc4f11eb3f3728fa28ea5d89b7b",
+      "png_width": 304,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_example_with_slots.png",
+      "bytes": 1457,
+      "sha256": "60c62708fabfc6dd3fa6847e019035534345c196eb43d823dff2ac1e746efcd9",
+      "png_width": 352,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/inventory_example_with_slots_2.png",
+      "bytes": 1415,
+      "sha256": "4a470f2fd89d5029056845a85bd7d2242c92f4d524493d92c22e091872dd5dd3",
+      "png_width": 304,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/weather/Weather_Icons_smal_freel.png",
+      "bytes": 1559,
+      "sha256": "e406d3dd7d56e4c0682a62003c1e4088e911cf719cc94ffd551433840c2ce2f0",
+      "png_width": 64,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/emoji style ui/weather/Weather_UI_Free.png",
+      "bytes": 1594,
+      "sha256": "2a7d26162dce988220bdbe687992f005ad552d7f2e65d7f7a61d2fb8c823421b",
+      "png_width": 80,
+      "png_height": 112
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/emojis-free/speech_bubble_grey.png",
+      "bytes": 2918,
+      "sha256": "f08ccdba23f2774d66b7e0f992890e687c5dd14a0fe09e7241d82ba03289cb9d",
+      "png_width": 448,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/fonts/pixel-letters-7-8x14-preview.png",
+      "bytes": 4319,
+      "sha256": "c23701711e53cb7f3febe65903a2ce61540b99bdefeb3a92bdbfc7d995d60e71",
+      "png_width": 472,
+      "png_height": 424
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/fonts/pixel-letters-7-8x14.png",
+      "bytes": 1894,
+      "sha256": "44c155f6d5a90df10f8e90fd9f796a18ea575ea7c5b3d7d9fefbd7e1046e8c4e",
+      "png_width": 118,
+      "png_height": 106
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/fonts/pixelFont-7-8x14-sproutLands.ttf",
+      "bytes": 118342,
+      "sha256": "b56cddeab11eeb74a8a2ac598c475f6817406cf89e18ab0c44b30df168cde012"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Lands_-_UI_Pack_-_Basic_pack/Sprout Lands - UI Pack - Basic pack/read_me.txt",
+      "bytes": 858,
+      "sha256": "c4b7fcc363513aa42c437240afc06ea5f01aebc30c0bec3bdd42f13aaef22236"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/bing_1.wav",
+      "bytes": 702764,
+      "sha256": "da5d68fe748e42793f8e96aab4d81a9b087e82b58717e35312a23cf92ea7c7d6"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/bip_1.wav",
+      "bytes": 702764,
+      "sha256": "83647c1e2d8291660901623c3ae1fce63156f1c782a8ee9083183f656308b3c7"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/blup_1.wav",
+      "bytes": 702764,
+      "sha256": "b5eea2ecbff726bb803bcba60beebd0e48b120a019743e16db648938c1ea4dce"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/blup_2.wav",
+      "bytes": 702764,
+      "sha256": "9c58bf96493a97daf5c0496f27e83d05e01967260a899119c9444f28adf7e24d"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/boo_1.wav",
+      "bytes": 702764,
+      "sha256": "f2c2896c7b01a1753d7f140feaface6064bf93389efa3397429b5891abfa74d3"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/boo_2.wav",
+      "bytes": 702764,
+      "sha256": "ff9c7bce522dc400f143b3ca1a930067d840ca5775635af2e1b806349fee1c28"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/flute_1.wav",
+      "bytes": 702764,
+      "sha256": "d07e5843f1cc7a69fa967e4e06c512497aca5596dc0de8bc21b0a9aafd513330"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/flute_2.wav",
+      "bytes": 702764,
+      "sha256": "24f92b6c14206db883773fa1e413a7beaa1ea5acef7be1cd2204c4ff655e8a5e"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/flute_3.wav",
+      "bytes": 702764,
+      "sha256": "9f2f30c3affd7c9e0857f524f9ff2e0e0a334f201f88c24348e02ed7e7106840"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/flute_4.wav",
+      "bytes": 702764,
+      "sha256": "100be7c2fd183befdb433b5fb67dd383f1f250298817ca6c356e1126298b8cbf"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/phone_1.wav",
+      "bytes": 2201900,
+      "sha256": "155aa1268c955019d39e368546eac768337a4d77b9934c69eacfa13079ac4bde"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/phone_2.wav",
+      "bytes": 2201900,
+      "sha256": "7183a7bafa872c388933384eee85b972c03b8ab14ccd21557a812b57d12edc8d"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/punch_1.wav",
+      "bytes": 702764,
+      "sha256": "4a9f0d31ab7c97250f09edb01e6528579d7a11de567fb26dd947ed4893f924a9"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/punch_2.wav",
+      "bytes": 702764,
+      "sha256": "f323ac4127c8b9ba899d71eedc6fa3d3cd507770a5fe7ac033f3d767d7da4d0d"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/punch_3.wav",
+      "bytes": 702764,
+      "sha256": "fbb8e6b548ebd4435c5357f5b48128c560906e65c49942031eaa350cbef7ab6e"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/punch_4.wav",
+      "bytes": 702764,
+      "sha256": "7d5cae4dacd5b982b3f3202d4b8207572a66c1d3c4e248a0c215ededbce90767"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/punch_5.wav",
+      "bytes": 702764,
+      "sha256": "4e733fe05d572b58d2b532047570cc4365b1ba6e1f87baad14bdb1d91f61e7bf"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/punch_6.wav",
+      "bytes": 702764,
+      "sha256": "5b5b9e6f148f1d98dab4ec4c2ef3fe3091384ac43a1f12d91efaf6aec6395a7b"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/squick_1.wav",
+      "bytes": 702764,
+      "sha256": "9cceba0db3d01e035fef623bcd0a2a544f61362ce8b8d6ce07d36767f050018b"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/squick_2.wav",
+      "bytes": 702764,
+      "sha256": "cf65e33005ab582fd6887548aec0a36027b8ba1633eddf82d7473e3b7d3f4072"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/squick_squick_1.wav",
+      "bytes": 702764,
+      "sha256": "4b2622199caf3dfd54d254b251a2cca157d1bbdb56367cd49a7aa46c4c374fe1"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Audio/squick_squick_2.wav",
+      "bytes": 702764,
+      "sha256": "d68232427d4c358a8a769f898f1e65d4254e8a2b0034ef329d245ee99282292e"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/enemies/bat.gif",
+      "bytes": 5005,
+      "sha256": "63d56afe7dbd7965ad245da5a2f9ce3d887869f7ee95a98920fee0b258ab8417"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/enemies/bat_animations.png",
+      "bytes": 1972,
+      "sha256": "3928a00c21e918e6a83434cdfa6cb4bf2a6fe808639edb3985d236727b1fb812",
+      "png_width": 192,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/enemies/small bat.gif",
+      "bytes": 2621,
+      "sha256": "f116a73318ea801064693d9e7590432113c43560c1c16b550207aaa3083ee454"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/enemies/small_bat_animations.png",
+      "bytes": 1098,
+      "sha256": "fb628f6a9ebe37c198c11ab4c8d9b34ad394f3c96efec29523c3cba2e061e072",
+      "png_width": 192,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/enemies/small_green_slime_animations.png",
+      "bytes": 4870,
+      "sha256": "4126ce207ac8e5989942710d247c32cde0de6e4f5954806440e0a25a2e4e88c5",
+      "png_width": 456,
+      "png_height": 304
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/Carts.png",
+      "bytes": 603,
+      "sha256": "d432df183947f99d96667dcfc9d7495ed73c1baa3d80960a16045bce95aff669",
+      "png_width": 48,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/Dungeon_probs.png",
+      "bytes": 2772,
+      "sha256": "a30e8b4bfc79470262ceac784411c51929f9a8dc4bc583ffb2c10fa780574376",
+      "png_width": 128,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/Dungeon_walls.png",
+      "bytes": 17324,
+      "sha256": "0d1996bc5806b439b59d47721d160cb2e6284a7a7f3f1471d8e4b216f2528309",
+      "png_width": 192,
+      "png_height": 352
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/Rails.png",
+      "bytes": 1597,
+      "sha256": "0659049d916342c707ea9555c818cfce15b117c48a5af6b5fb04ec716f9e2b34",
+      "png_width": 64,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/Rocks.png",
+      "bytes": 3381,
+      "sha256": "59031bda362f7c183de018643b0b366b0ec54a1d65f0d04a4cde8e10733c38ba",
+      "png_width": 64,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/dungeon_items.png",
+      "bytes": 2924,
+      "sha256": "4bc0a6d9ff5fa773dddea8f4fa413d9e38b946f79f2fc7b945a1f852a0f24e1b",
+      "png_width": 80,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/dungeon_walls_decor_gates.png",
+      "bytes": 2262,
+      "sha256": "e63a40983aa49d532d06cb169d40ba6066237a67259829acc42ef899f29b3679",
+      "png_width": 112,
+      "png_height": 112
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/ground_dirt_orange.png",
+      "bytes": 3737,
+      "sha256": "6f028b33c2f0569dd2c84c2f38f118b3568bf656666fcb30e9a04c4511804b1b",
+      "png_width": 176,
+      "png_height": 176
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/ground_dirt_orange_dark.png",
+      "bytes": 3707,
+      "sha256": "affecff9189c293e93527a61493cca6392176267c525c4fbbcbf8a112effe537",
+      "png_width": 176,
+      "png_height": 176
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/ground_dirt_orange_darker_hole.png",
+      "bytes": 513,
+      "sha256": "88ed0c57ae895062894e39f1b3099ef4d56148cf2a03d1f17566ca27c984e567",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/ground_dirt_orange_hole.png",
+      "bytes": 492,
+      "sha256": "acd9013f625e589ea54626bceb3f6747fe300eaa5c46215dd48b9c029aa8068c",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Dungeon Pack/tiles/switch.png",
+      "bytes": 627,
+      "sha256": "6845192b471aa04e7348141328f90ba64bc1f6c45d1c7296b7b57b3ac2fa3cc5",
+      "png_width": 48,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/Fish Sprites.png",
+      "bytes": 10451,
+      "sha256": "b850fcdc067b835c0dbe2d0dc5fef63cf695deb8bd8568c66d73eb286c4a691d",
+      "png_width": 160,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/big fish 2 swimming in cirkels.png",
+      "bytes": 736,
+      "sha256": "e6400ddeab712043b4e0a80dacb253948463227f432dce4ab82cd54d973b0c43",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/fishing animation back.png",
+      "bytes": 11385,
+      "sha256": "1b9a3a580d881168c938d1b3b2f849588b9c0213e037b348534c457c9194118b",
+      "png_width": 1536,
+      "png_height": 288
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/fishing animation front.png",
+      "bytes": 12683,
+      "sha256": "2b0317a8da39f99c424fc34411cca3c44c91f25cc1e5521f9a67346c273d4b3d",
+      "png_width": 1536,
+      "png_height": 288
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/fishing animation side.png",
+      "bytes": 12932,
+      "sha256": "279646f9796fd20a3e7491c1f99681fda8bb306238ea0b61ecbc0b2e48714b09",
+      "png_width": 1536,
+      "png_height": 288
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/fishing water splash frames and rod.png",
+      "bytes": 1780,
+      "sha256": "68a73ea1f99e0ba86bb25d30c32ad99a8f8ef4ef6ee2401673e088f0a6f21691",
+      "png_width": 192,
+      "png_height": 240
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/fishing_rod.png",
+      "bytes": 341,
+      "sha256": "fac663f7aa79687328ecfa35b723732180d764f532c4afc466994ecbb3d8a576",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/fishing_rod_2.png",
+      "bytes": 371,
+      "sha256": "0e76b87440f7ba440f130ba1f6be8eb71cb3f087e571bc564d684f3668ad01fa",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/mediuml fish.png",
+      "bytes": 607,
+      "sha256": "49a359c67cd6f3bf631bc3de02f773c2ac0c3ddcc1bd6634fe520f3a64a5a8d3",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/small fish.png",
+      "bytes": 442,
+      "sha256": "124bc92d42aa9211e234023e5a260e21021ef6bde9db6792eb4fe216de87d611",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Ocean Pack/swimming.png",
+      "bytes": 6083,
+      "sha256": "99bcf9d6aecbfff35d514a8c5d2a63c25a4b7b0b98c621cb538f86caa2944acb",
+      "png_width": 384,
+      "png_height": 384
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Bee/bee_spritesheet.png",
+      "bytes": 442,
+      "sha256": "dae02cc4d5eaf268631f1f18fd892b5687d567350db9552371cbbcb77e44da82",
+      "png_width": 128,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Bee/beehive.png",
+      "bytes": 543,
+      "sha256": "bb84adf989240537295f9df776a5aa353b0a9d83f2c06ff15ab71a91edb64338",
+      "png_width": 32,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Bee/bread_jam_honey_items.png",
+      "bytes": 3659,
+      "sha256": "fd7873cdc734acc8045408ab7b967cd321bdd5e3ce014269130c4ff7eda6317e",
+      "png_width": 64,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Bee/small_bee_spritesheet.png",
+      "bytes": 355,
+      "sha256": "c2dabb737c368ada01dddbc9332f260ea1c41775eff9b9aef1bb5a02811ba5e8",
+      "png_width": 128,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Bee/small_beehive.png",
+      "bytes": 390,
+      "sha256": "835aec674376d758199b5c5ae39a9639d1df8c54248433fdc142fd6ac969a8a1",
+      "png_width": 16,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Birch wood Biom water plants.png",
+      "bytes": 2077,
+      "sha256": "78599c7e34668cef607162dab39673a1d765e6c350dc8afc40a976e12f0d1b46",
+      "png_width": 144,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Birch wood Biom.png",
+      "bytes": 4965,
+      "sha256": "d17827f6e5ae03f93b6cc83642575072d3d160f591ad951ae06e8c3ba081466e",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Cherry Blossom Biom water plants.png",
+      "bytes": 1280,
+      "sha256": "d3fb5ca82df04f7b36d6a9d0b0ff08153fa2153b021b628c02c15f3855b43aec",
+      "png_width": 96,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Cherry Blossom Biom.png",
+      "bytes": 6471,
+      "sha256": "5c7fc604fc027682cbad5d1657a6be4cfc5bf6924b09fa01a06d12a8783d0498",
+      "png_width": 160,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Farming Plants items v2.png",
+      "bytes": 10440,
+      "sha256": "6f420579bd3d3ebb85270d1db06e2a7eecee15facecb9189fc911bea7e058a4c",
+      "png_width": 80,
+      "png_height": 224
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Farming Plants v2 watered.png",
+      "bytes": 22348,
+      "sha256": "c943c18e2654421e2e03032984ed1f75d1302acc1e76072b5ed248fcd5a7f03f",
+      "png_width": 112,
+      "png_height": 528
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Farming Plants v2.png",
+      "bytes": 20990,
+      "sha256": "ed9b7819d3854e7a3accc7ac32c3fb195b6ebb63657308059efee94f6176d538",
+      "png_width": 112,
+      "png_height": 528
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/Birch_Chest.png",
+      "bytes": 2219,
+      "sha256": "f85fb25fe9c22c09d924260944cc5607a5a76ba1f751ca2673d5ac341fb86546",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/Cherry_Chest.png",
+      "bytes": 2023,
+      "sha256": "80e9869fc48d3b9bc057b6d7b059ef26d13808635291f742eecf5be01114cde6",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/Golden_Chest.png",
+      "bytes": 2307,
+      "sha256": "76a24f9b881993a200ff7be8588012da926a68006834951761725959fa7abfc8",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/Oak_Chest.png",
+      "bytes": 2122,
+      "sha256": "18dc7abe7b2882c887417e0f948d4d829aae556da2472b9030bff00fb6ce48a3",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/Pine_Chest.png",
+      "bytes": 2206,
+      "sha256": "07b1e11188039358885d3f31590d144c8271d737d353c55a2e1dbcd22afa57cf",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/Silver_Chest.png",
+      "bytes": 2371,
+      "sha256": "2751f8579a205d568d5d5459efdb6b118a29c9863226a5e8d704d1749131e0e8",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/new Wooden Furniture items.png",
+      "bytes": 5156,
+      "sha256": "14e7a93ab9428fdc098d5143d197ca7f8a850563d08785ae60e15df996d48851",
+      "png_width": 192,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Furniture/new Wooden Furniture.png",
+      "bytes": 6551,
+      "sha256": "88f5751204e1157dd73a529ac61156d8d1af5d1c73238627ce0778e170f301d8",
+      "png_width": 240,
+      "png_height": 128
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/Grass_Tile_Layers.png",
+      "bytes": 14029,
+      "sha256": "18f8b422455a30cb368b694725fe53e4a9c8e9db57de8d4bdcaf873f851e9801",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/Grass_Tile_layers2.png",
+      "bytes": 13346,
+      "sha256": "7b0e454229e94f4b19dd6c8d57a40e6820272da944e02be678a55691dca7ab78",
+      "png_width": 160,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/Grass_Tile_layers3.png",
+      "bytes": 14087,
+      "sha256": "5ccff4e4e923e94db39d40628fd0bbac45bd8f5018e3fe4f5be5e878a8edbbd6",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/Grass_Tile_layers4.png",
+      "bytes": 14227,
+      "sha256": "9d05e6aefdd512d4cdb8cc1eae342a76037b6ebe2bbc2b57eb4f5eb9ab3baf60",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/blue_tint_Grass_Tile_Layers.png",
+      "bytes": 13977,
+      "sha256": "103c4a1ad5cc4a78c392d69fa9a74121a4dda1c0dc55e29c828b2c2e289862ce",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/blue_tint_Grass_Tile_Layers2.png",
+      "bytes": 14131,
+      "sha256": "241647f2524d13f550c12dc413cdc9958737521774a0a11e52e3e8c55d2ba48d",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/blue_tint_Grass_Tile_Layers3.png",
+      "bytes": 14122,
+      "sha256": "46d1b67f931f22801695f609ad9e86cf90b4134d42636299ff4bbfdf712c3404",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Ground tilesets/blue_tint_Grass_Tile_Layers4.png",
+      "bytes": 14316,
+      "sha256": "e09e76e8514bb34ad703c2ba27e1798cbd1033c0c7daf654731db5acfb71dd40",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Pine Tree Biome water plants.png",
+      "bytes": 1916,
+      "sha256": "c0e8cd511168d7351d4b98bc45f7d1ff550bc905df7c067e012e8adf4b85d003",
+      "png_width": 144,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Pine Tree Biome.png",
+      "bytes": 4519,
+      "sha256": "d4eb3bcde8f927a79421d0d4c246ec40b0f3c772cdb1a7650f3889e71444fca7",
+      "png_width": 160,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/Trees, stumps and bushes v2.png",
+      "bytes": 9022,
+      "sha256": "e46202b96e7df7f3421ac64d451a157efbbb4d5350db60d90486b401c3a82d15",
+      "png_width": 192,
+      "png_height": 128
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/frog/frog_spritesheet.png",
+      "bytes": 1886,
+      "sha256": "86e77c493102990d197702a4856596c2b311e13f746d09c9eadcf4336165080e",
+      "png_width": 224,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/frog/frog_spritesheet2.png",
+      "bytes": 1874,
+      "sha256": "20b206c8f9463560caee243a99153df812abe79f04f9baa82e5f846f07a694d3",
+      "png_width": 224,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/piknik/Piknik basket.png",
+      "bytes": 295,
+      "sha256": "931f0e1a4671f4b8663be45c3a499ef7c122ebf7a98d94110ed26b9437fb1b35",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/piknik/Piknik blanket.png",
+      "bytes": 770,
+      "sha256": "4bd43da9462d947c1a7c5f0fc2cd3f4e17b2eedb40837fd10debc937ab902b4e",
+      "png_width": 48,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/piknik/piknik_foods.png",
+      "bytes": 1192,
+      "sha256": "416473f2a173bbf8f9e2ae3165fd28c558800375319b1bb40f024d2f439d31ef",
+      "png_width": 112,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Plant update 2/wood n shroms.png",
+      "bytes": 4769,
+      "sha256": "b45dfcf7a478e1dddf8b666c94d16ae5de6971df941f4c6c29ce9c12482b8c53",
+      "png_width": 96,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/campfire.png",
+      "bytes": 2276,
+      "sha256": "28e137bcdce02e3a1cec3f3f91eef133b58e1d619fe3d2f2ed747dd0a3c8735e",
+      "png_width": 112,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/christmas tree aseprite file.aseprite",
+      "bytes": 9221,
+      "sha256": "a8e4c03f67d5a7f5f1ae4358331d7233539329f62b8bc4bf6dd037ba37fb7258"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/christmas tree.png",
+      "bytes": 3575,
+      "sha256": "f813b9c28386f850aa67736108b63aa47a6505c48e2ea378e44fa8c2d8986259",
+      "png_width": 384,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/fire animation.png",
+      "bytes": 476,
+      "sha256": "e1dbc3832b66be3d500d7d0f3d23d88ffc047613a399f3d0eb54e783412b36ee",
+      "png_width": 256,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/fire aseprite file.aseprite",
+      "bytes": 2855,
+      "sha256": "84cc4d4359f5d0d5fc39e9bc74c8e2a579cefa494f97acc3f06f4f5e1ddff821"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/ice tiles.png",
+      "bytes": 846,
+      "sha256": "6b94358d227055d897eddfce348058db7be1d176aa200ddd753f06d3ed749269",
+      "png_width": 64,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present animation aseprite file.aseprite",
+      "bytes": 11760,
+      "sha256": "52f6567354ef828c3d1ad4ca83d4e25d009cd07e6b4e74ce6b55f2e279a1be18"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present animation aseprite file.png",
+      "bytes": 1354,
+      "sha256": "b1b497b7d4d5afebe3c7395384f8bfb6f60c18bbf7d7dfce0a5439d9d392083d",
+      "png_width": 160,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present green 2.png",
+      "bytes": 1410,
+      "sha256": "0a9f71272e7cdb173098fa4b80ec3399cada24305f67dc50c4b6ab69857f41d5",
+      "png_width": 160,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present green.png",
+      "bytes": 1331,
+      "sha256": "377eace9e70ae48f5565912d53ca7e95c5366fc9ed404e060410c3fd3d8e9e9e",
+      "png_width": 160,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present red 2.png",
+      "bytes": 1377,
+      "sha256": "56b9ce75587b75d2d28eb802e79cc12958dce826b9670fd23b58edd94ecf2c08",
+      "png_width": 160,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present red 3.png",
+      "bytes": 1471,
+      "sha256": "3d60933b5475dd264f5f433fde3cb2c95f26538c153e86be93fe957994f1a483",
+      "png_width": 160,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/present red.png",
+      "bytes": 1354,
+      "sha256": "b1b497b7d4d5afebe3c7395384f8bfb6f60c18bbf7d7dfce0a5439d9d392083d",
+      "png_width": 160,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/snomwflakes.png",
+      "bytes": 180,
+      "sha256": "810962c035928e320129462bac54a0c05608db0dc9ae2038c8dcec51519a0b15",
+      "png_width": 16,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/snow tiles 1.png",
+      "bytes": 13470,
+      "sha256": "e8b41da6fbe4620169d290a828497e889272e356a998a99e16fcf9c07d781f39",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/snow tiles 2.png",
+      "bytes": 13963,
+      "sha256": "672af6600f17f1dfed4cb7f9c13209242b7aab9f16c09df2592367b2f77d16ea",
+      "png_width": 176,
+      "png_height": 400
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/winter items.png",
+      "bytes": 1900,
+      "sha256": "d0695eb160950430e99dc53bd13ac3941c1e01a5fc4ddd0a9b4a6487746ccf87",
+      "png_width": 32,
+      "png_height": 64
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Sprout winter/winter sprites.png",
+      "bytes": 13023,
+      "sha256": "e3ca194ebde5f03ef8dbe1004518a50d398ad19159b941c5c0fb3a621b47e9ba",
+      "png_width": 240,
+      "png_height": 144
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/Grey brick house/brick_houses_shadow.png",
+      "bytes": 185,
+      "sha256": "b954a2334746ff5c300dd5542015a912c4f6ab00ec98584892f84b96ca57d820",
+      "png_width": 96,
+      "png_height": 32
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/Grey brick house/grey_brick_houses.png",
+      "bytes": 6816,
+      "sha256": "9aac86e7ad7c9754c7e12d6cfd2631c902227cac0023d0490de2ea2c0b557818",
+      "png_width": 288,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/Grey brick house/grey_brick_houses_with_doors.png",
+      "bytes": 6953,
+      "sha256": "7d23c92ff376f8f5b79f63609c8582fb7b46af9962ad9d08e224a82c54160070",
+      "png_width": 288,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/Grey brick house/grey_brick_houses_with_doors_grass.png",
+      "bytes": 7192,
+      "sha256": "5fd7ace3943e46138972b166efa75a82236ea145979b8385b69fba3160ae2587",
+      "png_width": 288,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/Grey brick house/grey_brick_houses_with_grass.png",
+      "bytes": 7070,
+      "sha256": "2dc8c15cefdacb9b88e3f715dbc03ac8c52e453880dd9ad1fd55251dd4c2874d",
+      "png_width": 288,
+      "png_height": 80
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House.png",
+      "bytes": 9339,
+      "sha256": "f0b6de71913014ba9b177fbe52f2fc0dbcb03b844eb61d69122a556c589eb7f6",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_light.png",
+      "bytes": 9407,
+      "sha256": "6fdba1751cbb74464b8af3f8aeedd880d439d2e84758e2abb8c452d316b6d890",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_light_with_door.png",
+      "bytes": 9859,
+      "sha256": "227df404bd0dd5b9f1d09439a28726f61dcbe1a4d8ad2dc6ffcc98f322e09868",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_light_with_door_grass.png",
+      "bytes": 10570,
+      "sha256": "2f398d515027dc3d443d63958ad640bdb4f9ca7ae5d5c3b6c923a868cb08fd7c",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_light_with_grass.png",
+      "bytes": 10141,
+      "sha256": "7ac86da5317f67ad7c7cac10a9d57d521f60d38593f36fb0b00513cee0ed0798",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_shadow.png",
+      "bytes": 168,
+      "sha256": "7be817c4c355630e25b17ebf1ad5a853bb2feecbcf5f84c13e2a4be17e1bc047",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_with_door.png",
+      "bytes": 9733,
+      "sha256": "7e7a5f0e82997ac8f6dec895c2b0fb5f9b611f31339bcdc78ede473bdb74be6e",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_with_door_grass.png",
+      "bytes": 10442,
+      "sha256": "7b871e3cbad792e8e8b7941c21d438648930dedcfc0486bb6d21d06e00325535",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small house/small_House_with_grass.png",
+      "bytes": 10238,
+      "sha256": "2e1226a5fcd15c92e9e3a854cac0cc169d229cfebf6a3cfe1b0fcd4f6f63fbb0",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small hut/small_hut_shadow.png",
+      "bytes": 162,
+      "sha256": "7bf92565ce753bfe20a8d7ee3000424da26a403d9771f38b7d72bc5d4e53cbbd",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small hut/small_huts.png",
+      "bytes": 11345,
+      "sha256": "57d6c5da8222cbb0ae291b2c4165a719811a2db4b5f3a8bcdd3deebba05571ce",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small hut/small_huts_with_doors.png",
+      "bytes": 11633,
+      "sha256": "39619ba32741885f9354eb3e877a4c458e797a787d682b2b692ab924d3738b03",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small hut/small_huts_with_doors_grass.png",
+      "bytes": 12232,
+      "sha256": "80563302972ca6aaebab08995870edf55caea88f91670ac403974fcd90d010ed",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/small hut/small_huts_with_grass.png",
+      "bytes": 11920,
+      "sha256": "508975337f6a326dbd8d119ce21c835d93773b704ba592440c442e1547e9f3b7",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Early Access/Village pack/houses/wooden_door_spritesheet.png",
+      "bytes": 1249,
+      "sha256": "63f7e5faed022ee3dda926087563cb66ff3420182146e8b7b1172ac69e4ed639",
+      "png_width": 384,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Tests/free_character_spritesheet_by-cupnooble.png",
+      "bytes": 3559,
+      "sha256": "7895256a4bec9d02f1cc8ffd1cd4f52418ae572f1814deceb6b2a4fb1903f21d",
+      "png_width": 128,
+      "png_height": 96
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Tests/teemo 8 directions test.gif",
+      "bytes": 48107,
+      "sha256": "adc8c396f9784aa90360b4f239f549b6cf16f9af5d17d82dbe59cf3c538d0885"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Tests/teemo 8 directions.png",
+      "bytes": 2274,
+      "sha256": "f76962d1fe0ee9e7b59bdd3c6149ec75d48a453069cb9d0d2d093c3bce236cce",
+      "png_width": 128,
+      "png_height": 48
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/Tests/test character test .gif",
+      "bytes": 30252,
+      "sha256": "405db06db1993f478fb38eb5fd07a16510a148e64739c4010b060c1cf8ab8127"
+    },
+    {
+      "path": "ASSET_PACKS/Sprout_Sorry_pack/Sprout Sorry pack/read_me.txt",
+      "bytes": 2643,
+      "sha256": "09fc51330037dac5149db63ab9e43acb019e70bbee6d2267b5e577b36ad978df"
+    },
+    {
+      "path": "README.md",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "android/.gitignore",
+      "bytes": 1824,
+      "sha256": "065e4a92a240fe11a0ea230491ad9dabef143f5fd5a3e6884ad6f0395666a971"
+    },
+    {
+      "path": "android/app/.gitignore",
+      "bytes": 26,
+      "sha256": "99c54e51ee601a60fbde8016b2cbf717483bc2e92773be86c9247d02a7fa6ea4"
+    },
+    {
+      "path": "android/app/build.gradle",
+      "bytes": 2138,
+      "sha256": "df240895ad67b94d7517e0e5139fcde27770d4b6d8fecd977a283b710c331da0"
+    },
+    {
+      "path": "android/app/capacitor.build.gradle",
+      "bytes": 370,
+      "sha256": "7051cadfdbc532197d2cfd4f8a11684d81367f23cf7952e5a208f7b6aa0833e0"
+    },
+    {
+      "path": "android/app/proguard-rules.pro",
+      "bytes": 751,
+      "sha256": "1cf8c57e8f79c250b0af9c1a5a4edad71a5c348a79ab70243b6bae086c150ad2"
+    },
+    {
+      "path": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "bytes": 774,
+      "sha256": "ff50b4c110a7434312f9af54171f9e8523b015836f707c9b387b76d4c38a97f8"
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "bytes": 1444,
+      "sha256": "3ee105b6ee7e55c6d6dcd72cdc40a7114e27af54310190a5f0992c6795e67815"
+    },
+    {
+      "path": "android/app/src/main/assets/capacitor.config.json",
+      "bytes": 237,
+      "sha256": "7f5940ae70599ec5c08e801796e93388b385d61489eecf53a18ddcb881908c3b"
+    },
+    {
+      "path": "android/app/src/main/assets/capacitor.plugins.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/characters/player/player.png",
+      "bytes": 2274,
+      "sha256": "f76962d1fe0ee9e7b59bdd3c6149ec75d48a453069cb9d0d2d093c3bce236cce",
+      "png_width": 128,
+      "png_height": 48
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/farming/plants.png",
+      "bytes": 20990,
+      "sha256": "ed9b7819d3854e7a3accc7ac32c3fb195b6ebb63657308059efee94f6176d538",
+      "png_width": 112,
+      "png_height": 528
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/farming/plants_watered.png",
+      "bytes": 22348,
+      "sha256": "c943c18e2654421e2e03032984ed1f75d1302acc1e76072b5ed248fcd5a7f03f",
+      "png_width": 112,
+      "png_height": 528
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/farming/tools.png",
+      "bytes": 1474,
+      "sha256": "efb8ba38abb0e999fc54cbfc3d202dd2c0385c98b9bdaec41487317f789bbbd8",
+      "png_width": 48,
+      "png_height": 32
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/fishing/fish_sheet.png",
+      "bytes": 10451,
+      "sha256": "b850fcdc067b835c0dbe2d0dc5fef63cf695deb8bd8568c66d73eb286c4a691d",
+      "png_width": 160,
+      "png_height": 80
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/fishing/medium_fish_strip.png",
+      "bytes": 607,
+      "sha256": "49a359c67cd6f3bf631bc3de02f773c2ac0c3ddcc1bd6634fe520f3a64a5a8d3",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/fishing/rod.png",
+      "bytes": 341,
+      "sha256": "fac663f7aa79687328ecfa35b723732180d764f532c4afc466994ecbb3d8a576",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/fishing/rod2.png",
+      "bytes": 371,
+      "sha256": "0e76b87440f7ba440f130ba1f6be8eb71cb3f087e571bc564d684f3668ad01fa",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/fishing/small_fish_strip.png",
+      "bytes": 442,
+      "sha256": "124bc92d42aa9211e234023e5a260e21021ef6bde9db6792eb4fe216de87d611",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/maps/farm.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/maps/forest.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/maps/lake.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/objects/house.png",
+      "bytes": 1784,
+      "sha256": "d146e9a5d2cc2a6c78bfa9a96f68f43eaa71a3081bac927b908f3e1c33ad9d0f",
+      "png_width": 112,
+      "png_height": 80
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/tilesets/dirt.png",
+      "bytes": 2037,
+      "sha256": "4ac254268b4d2176a19340bd561f8a5cbb544ad13953ba2cd877812840266b52",
+      "png_width": 128,
+      "png_height": 128
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/tilesets/grass.png",
+      "bytes": 3971,
+      "sha256": "0e6038980b9fb559361cd5da0910412194191c849e15b1aa3a72805df38857f0",
+      "png_width": 160,
+      "png_height": 128
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/tilesets/water.png",
+      "bytes": 251,
+      "sha256": "02ce64243bb17f62fff0bd44abf661ab5efb8dd6a85fd7e304e73e2fd3188f95",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/ui/emoji_sheet.png",
+      "bytes": 31456,
+      "sha256": "078cf93dd4e8f6e72bca5fbc854f6154290086d6c2ad92c18d03158d15b7d002",
+      "png_width": 160,
+      "png_height": 608
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/ui/inventory/inventory_blocks.png",
+      "bytes": 1530,
+      "sha256": "adce975022f3b4ae97c1828ad13528d90c730138c561900bdf5b7a41e05867ea",
+      "png_width": 144,
+      "png_height": 144
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/ui/inventory/inventory_hearts.png",
+      "bytes": 3306,
+      "sha256": "c5eb1ec30e3cbaebaa046ffdf98993947c4c68c724cc86236c151b0ebb79f3bb",
+      "png_width": 112,
+      "png_height": 336
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/ui/inventory/inventory_sheet.png",
+      "bytes": 10413,
+      "sha256": "e8b954a1d6dcb7c5d14754cb4764500ec4e8aa59810af8ae3d4b4ddd389cf347",
+      "png_width": 368,
+      "png_height": 336
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/index-d0tJC914.js",
+      "bytes": 1617767,
+      "sha256": "4ab8439cbdf0dd04c7ea18050004662c8ba7b1ba85cb2a5e36a41164e2e71fbb"
+    },
+    {
+      "path": "android/app/src/main/assets/public/cordova.js",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "android/app/src/main/assets/public/cordova_plugins.js",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "android/app/src/main/assets/public/index.html",
+      "bytes": 1009,
+      "sha256": "c6ae28782e17e58471b0ddc202d87339d3c7e81b83605c1218aec399198130ba"
+    },
+    {
+      "path": "android/app/src/main/java/com/sproutvalley/app/MainActivity.java",
+      "bytes": 124,
+      "sha256": "39667440e6aa6640a7f7c738baec22fec85aeb3f043aa3112394df637ab7fc0c"
+    },
+    {
+      "path": "android/app/src/main/res/drawable-land-hdpi/splash.png",
+      "bytes": 7705,
+      "sha256": "08cc34ad7713fe7ed58bceaa37b2387b670c53cd60264b4bd6442db3098e75dc",
+      "png_width": 800,
+      "png_height": 480
+    },
+    {
+      "path": "android/app/src/main/res/drawable-land-mdpi/splash.png",
+      "bytes": 4040,
+      "sha256": "5cf98b4451bd99b20df26f9e608a46946118be6b0ae90762f9ca1786a30c76ff",
+      "png_width": 480,
+      "png_height": 320
+    },
+    {
+      "path": "android/app/src/main/res/drawable-land-xhdpi/splash.png",
+      "bytes": 9251,
+      "sha256": "22f87e1e3bc89aa01a7dbc39c9a4db058cd0bf4ad3fe9f55712bf69eb997f4bf",
+      "png_width": 1280,
+      "png_height": 720
+    },
+    {
+      "path": "android/app/src/main/res/drawable-land-xxhdpi/splash.png",
+      "bytes": 13984,
+      "sha256": "42aa26392546fcdee1b8d3ac6d4b41bfcceb41dc6a4f3a3c30c24a8a8f4db862",
+      "png_width": 1600,
+      "png_height": 960
+    },
+    {
+      "path": "android/app/src/main/res/drawable-land-xxxhdpi/splash.png",
+      "bytes": 17683,
+      "sha256": "60393ce8636fd263e4e1fea3fd4ab2de948c6295e898fda9b50ac4e5283be809",
+      "png_width": 1920,
+      "png_height": 1280
+    },
+    {
+      "path": "android/app/src/main/res/drawable-port-hdpi/splash.png",
+      "bytes": 7934,
+      "sha256": "c5015f4ba3628392b538386c5e210f0b94f352a3160adab934fd0311972137ca",
+      "png_width": 480,
+      "png_height": 800
+    },
+    {
+      "path": "android/app/src/main/res/drawable-port-mdpi/splash.png",
+      "bytes": 4096,
+      "sha256": "07fa579e1c83e04ba7f9cbcbfcf41b68e15fe3638f2c44a04e58b809103e6b69",
+      "png_width": 320,
+      "png_height": 480
+    },
+    {
+      "path": "android/app/src/main/res/drawable-port-xhdpi/splash.png",
+      "bytes": 9875,
+      "sha256": "b73049cb37fe76d6c11b87a796766bf6af0c85483b31eb6a921657b0d764a4b9",
+      "png_width": 720,
+      "png_height": 1280
+    },
+    {
+      "path": "android/app/src/main/res/drawable-port-xxhdpi/splash.png",
+      "bytes": 13346,
+      "sha256": "0c7f1212f25b7b90e9a6e1d320013e4ff3d3e03e634cbb07b7b7981cac51627f",
+      "png_width": 960,
+      "png_height": 1600
+    },
+    {
+      "path": "android/app/src/main/res/drawable-port-xxxhdpi/splash.png",
+      "bytes": 17489,
+      "sha256": "3db071a03b2f8ffe0dfd4170fc59842d53cd15bba5e88af59401d58efabf7827",
+      "png_width": 1280,
+      "png_height": 1920
+    },
+    {
+      "path": "android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+      "bytes": 1880,
+      "sha256": "a8514094f754b099d3e55ce1d6e0b2de79db418b2eeacb0fc2a6bb0bfadef221"
+    },
+    {
+      "path": "android/app/src/main/res/drawable/ic_launcher_background.xml",
+      "bytes": 5606,
+      "sha256": "718ba51adf166bb55c3e9936bb8199a0148457f7f0191aaa2f37a94f3159d6ec"
+    },
+    {
+      "path": "android/app/src/main/res/drawable/splash.png",
+      "bytes": 4040,
+      "sha256": "5cf98b4451bd99b20df26f9e608a46946118be6b0ae90762f9ca1786a30c76ff",
+      "png_width": 480,
+      "png_height": 320
+    },
+    {
+      "path": "android/app/src/main/res/layout/activity_main.xml",
+      "bytes": 535,
+      "sha256": "5d770feb791313b947020cbfc57e5c733c556dac5e9e49261a1190e527073253"
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "bytes": 265,
+      "sha256": "9c3a7e0a6515c6e1a7ae834a9ae430311ebc3241f7b2e5e7f0460aa690709a7c"
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+      "bytes": 265,
+      "sha256": "9c3a7e0a6515c6e1a7ae834a9ae430311ebc3241f7b2e5e7f0460aa690709a7c"
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "bytes": 2786,
+      "sha256": "72b71c3581ca3b5a23b1c168d69b9d855b3f184fa079902a01f088eb4f0607d5",
+      "png_width": 72,
+      "png_height": 72
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+      "bytes": 3450,
+      "sha256": "32baa10d2632a4417454a579f992bd640e0a3cec79321423559b2c9940de58a9",
+      "png_width": 162,
+      "png_height": 162
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+      "bytes": 4341,
+      "sha256": "bfcc1b0fa931b14bb241372c76ab4f04374b67d02363c98d9cb12edfdacdf5f3",
+      "png_width": 72,
+      "png_height": 72
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "bytes": 1869,
+      "sha256": "27ed3603010ebc278f64f8645741ab132ff517abb5308eb9df6c8e42a48956b2",
+      "png_width": 48,
+      "png_height": 48
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+      "bytes": 2110,
+      "sha256": "58e78a618778926b1f6d9472a6468de878de8530970934e94aab5ba4ba08cc00",
+      "png_width": 108,
+      "png_height": 108
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+      "bytes": 2725,
+      "sha256": "0166fc333074c373fbd0ce6b5defd71552166165ac778121ca9c9dff6b83f0fc",
+      "png_width": 48,
+      "png_height": 48
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "bytes": 3981,
+      "sha256": "d35dbfff175b83c13ef59cf924abfc810f7b6a158595d7417c5498ea8c7c7ed1",
+      "png_width": 96,
+      "png_height": 96
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+      "bytes": 5036,
+      "sha256": "6f88083b8166cc559102f7044688de7525287632ebe09ac45d001ac8bf4b3eae",
+      "png_width": 216,
+      "png_height": 216
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+      "bytes": 6593,
+      "sha256": "40911a00922868686854a4804b93fd6e56b503664696de03f450bff690affb6d",
+      "png_width": 96,
+      "png_height": 96
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "bytes": 6644,
+      "sha256": "ed346eb1e3f0280f15709393705899b3ff55c20b88f4e0308006b3c33cf5fe14",
+      "png_width": 144,
+      "png_height": 144
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+      "bytes": 9793,
+      "sha256": "4a82bc1e9923576275869998925ce0ae021a79aa18b24a0dd87ad6b61ca85053",
+      "png_width": 324,
+      "png_height": 324
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+      "bytes": 10455,
+      "sha256": "1ee4cd9ff371dcb2e3938097e434f6fb8731688ed7165e61fc63693ad5b2f455",
+      "png_width": 144,
+      "png_height": 144
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "bytes": 9441,
+      "sha256": "87cb2f2ffe992652bb4fa768c73719a37b5852ab17fbf8e170e888f7a42b0761",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+      "bytes": 15529,
+      "sha256": "bd24fd383253bf8d43f0a81f11c071d76d1d555114376dd647cd9fb38fa0a9da",
+      "png_width": 432,
+      "png_height": 432
+    },
+    {
+      "path": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "bytes": 15916,
+      "sha256": "ab93096331e7cd8ec379f73f1e9adcaaa9ee1115c9f4ff10411a811fb9700174",
+      "png_width": 192,
+      "png_height": 192
+    },
+    {
+      "path": "android/app/src/main/res/values/ic_launcher_background.xml",
+      "bytes": 120,
+      "sha256": "4c6940cdd97faeab987b7333241f230b29f20a61dde2b3d1b9aacad8aac914bb"
+    },
+    {
+      "path": "android/app/src/main/res/values/strings.xml",
+      "bytes": 306,
+      "sha256": "f43c219e86f57f57eb63a5916c92bdc3936f6965481f1ab5890e303c413cd97f"
+    },
+    {
+      "path": "android/app/src/main/res/values/styles.xml",
+      "bytes": 823,
+      "sha256": "18ebba36575e9461347ee67361b23caf095f158ee85dbefe1b83a4669ba5bd6c"
+    },
+    {
+      "path": "android/app/src/main/res/xml/config.xml",
+      "bytes": 185,
+      "sha256": "e9dcda493e663c5c4db9e3cb3bd968477a6e90aa8840bcbba40d72ed54b767ce"
+    },
+    {
+      "path": "android/app/src/main/res/xml/file_paths.xml",
+      "bytes": 213,
+      "sha256": "a46ed43ef65c90cb6778f4581decf3556e3f0055aad8f36d69dae16f9a0e99aa"
+    },
+    {
+      "path": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "bytes": 402,
+      "sha256": "d4045ae8fac1f0807e6b24eb34e68409a9a235df9d1a3f896fb8c9a49424363d"
+    },
+    {
+      "path": "android/build.gradle",
+      "bytes": 637,
+      "sha256": "46ade7db7afeb8049ccea59fce83095dca736ceb8c9acd79cc944e988c3357d9"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build.gradle",
+      "bytes": 1668,
+      "sha256": "28e3fa281f4d1e388bf98abc7f5bb31e672516e385c165c719d201ed54b8236e"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml",
+      "bytes": 314,
+      "sha256": "f235a07d1384bcfcfb502c0ae98efc9dc90757098239b44db7b334b4b06e02fb"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json",
+      "bytes": 364,
+      "sha256": "42a36661e485c47f36e04eabcb1f6fab686818ce79b276eb5ebc15f742e58327"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties",
+      "bytes": 156,
+      "sha256": "9cc8517bbdf06d879f57a2cfd6f8c6914e48800d443421cd850971945f98e7b2"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar",
+      "bytes": 330,
+      "sha256": "8f8440ab7c76027736349da5c25413f6fb2abf61698d21d31f4968a418c62aec"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar",
+      "bytes": 330,
+      "sha256": "8f8440ab7c76027736349da5c25413f6fb2abf61698d21d31f4968a418c62aec"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties",
+      "bytes": 30,
+      "sha256": "a0db602e8dc153e5c97364032fa9e5c63f765c89c5872cb240c16ef06aed8d94"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/incremental/debug/packageDebugResources/merger.xml",
+      "bytes": 2074,
+      "sha256": "e878d927f05bec757c798b1ccc9ccd82998680c4a7f67e6acb65387c0720a54a"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt",
+      "bytes": 55,
+      "sha256": "80470905e6f0fca8966eeaf24ad1fee6605885a24498cfa501bd86a1a7472529"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt",
+      "bytes": 440,
+      "sha256": "2fd686751a6de165166ba328ed8dcb911f358786090844cdcd828a9f9cf695fd"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml",
+      "bytes": 314,
+      "sha256": "f235a07d1384bcfcfb502c0ae98efc9dc90757098239b44db7b334b4b06e02fb"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt",
+      "bytes": 15,
+      "sha256": "9c480558a2abf161482051a883120398c77c97be0a2c7a60df38dff324aade96"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt",
+      "bytes": 34,
+      "sha256": "438335fc37c8208eaee1984b50b9de7299217a91e58cf4f7b08cfecd630f043a"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/outputs/logs/manifest-merger-debug-report.txt",
+      "bytes": 1469,
+      "sha256": "3d29eece24d41d5d9f6c92ad3709d1d3e025c9362ff6a476b3c8e28339642abf"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/cordova.variables.gradle",
+      "bytes": 312,
+      "sha256": "b13104b34f7738abceec358ae8226ba5e64855e97babde54a115880e9b9bd47b"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml",
+      "bytes": 210,
+      "sha256": "2e3e383475f0e6cb76f0a7b46017a546663fba8e5bd1ef2a537412afac2ee9b5"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/src/main/java/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/src/main/res/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "android/capacitor.settings.gradle",
+      "bytes": 207,
+      "sha256": "b488e162f552d6efb8286793c7871bbc1061c9bf5ca3a6a495fdeb8988a541c7"
+    },
+    {
+      "path": "android/gradle.properties",
+      "bytes": 987,
+      "sha256": "3bab15c5b8bc4c2f4b6cf525497d15ad4abca53a460e6dd2eb0f0135817d31e6"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.jar",
+      "bytes": 43764,
+      "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 253,
+      "sha256": "9a479a85aa879bb55284fc16d0de5b81a745c3854f4e2d88c42e7debaf007435"
+    },
+    {
+      "path": "android/gradlew",
+      "bytes": 8733,
+      "sha256": "b187b4c52e749f5760afdd6fadc31b2a98ad35fb249bf0dff03b72650f320409"
+    },
+    {
+      "path": "android/gradlew.bat",
+      "bytes": 2937,
+      "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
+    },
+    {
+      "path": "android/local.properties",
+      "bytes": 26,
+      "sha256": "1a7144c12d367ad8597e26e928e7f378ccf1482c537e20716052cdf73be36427"
+    },
+    {
+      "path": "android/settings.gradle",
+      "bytes": 208,
+      "sha256": "6ce098d15ebd69b44c4ecd786bca1bdc366340d2459b2af4d7bb0ab317aa9669"
+    },
+    {
+      "path": "android/variables.gradle",
+      "bytes": 498,
+      "sha256": "83d502c9ed8fcf1dd4791482067abeedbebae49fafe9cd14a8a1f5891deb0d88"
+    },
+    {
+      "path": "capacitor.config.json",
+      "bytes": 250,
+      "sha256": "4c3ceee555cc28e97572dc693c0af55f11e940a824331fabdd3609b909dfb117"
+    },
+    {
+      "path": "index.html",
+      "bytes": 983,
+      "sha256": "174a07bbe525bab661830c8604530193dc3851a68531cf3f06701fda5a48150b"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 74637,
+      "sha256": "8f005ac0d7f0843bf7ea76a8bf661e2238e54def7f82c1a30a721b631823bbda"
+    },
+    {
+      "path": "package.json",
+      "bytes": 649,
+      "sha256": "a0eaa3e9f3c39dd6d309b0cfd95c68e77da34b8ce30a0eaa714f43a6c01e64d3"
+    },
+    {
+      "path": "public/assets/images/characters/player/player.png",
+      "bytes": 2274,
+      "sha256": "f76962d1fe0ee9e7b59bdd3c6149ec75d48a453069cb9d0d2d093c3bce236cce",
+      "png_width": 128,
+      "png_height": 48
+    },
+    {
+      "path": "public/assets/images/farming/plants.png",
+      "bytes": 20990,
+      "sha256": "ed9b7819d3854e7a3accc7ac32c3fb195b6ebb63657308059efee94f6176d538",
+      "png_width": 112,
+      "png_height": 528
+    },
+    {
+      "path": "public/assets/images/farming/plants_watered.png",
+      "bytes": 22348,
+      "sha256": "c943c18e2654421e2e03032984ed1f75d1302acc1e76072b5ed248fcd5a7f03f",
+      "png_width": 112,
+      "png_height": 528
+    },
+    {
+      "path": "public/assets/images/farming/tools.png",
+      "bytes": 1474,
+      "sha256": "efb8ba38abb0e999fc54cbfc3d202dd2c0385c98b9bdaec41487317f789bbbd8",
+      "png_width": 48,
+      "png_height": 32
+    },
+    {
+      "path": "public/assets/images/fishing/fish_sheet.png",
+      "bytes": 10451,
+      "sha256": "b850fcdc067b835c0dbe2d0dc5fef63cf695deb8bd8568c66d73eb286c4a691d",
+      "png_width": 160,
+      "png_height": 80
+    },
+    {
+      "path": "public/assets/images/fishing/medium_fish_strip.png",
+      "bytes": 607,
+      "sha256": "49a359c67cd6f3bf631bc3de02f773c2ac0c3ddcc1bd6634fe520f3a64a5a8d3",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "public/assets/images/fishing/rod.png",
+      "bytes": 341,
+      "sha256": "fac663f7aa79687328ecfa35b723732180d764f532c4afc466994ecbb3d8a576",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "public/assets/images/fishing/rod2.png",
+      "bytes": 371,
+      "sha256": "0e76b87440f7ba440f130ba1f6be8eb71cb3f087e571bc564d684f3668ad01fa",
+      "png_width": 16,
+      "png_height": 16
+    },
+    {
+      "path": "public/assets/images/fishing/small_fish_strip.png",
+      "bytes": 442,
+      "sha256": "124bc92d42aa9211e234023e5a260e21021ef6bde9db6792eb4fe216de87d611",
+      "png_width": 240,
+      "png_height": 16
+    },
+    {
+      "path": "public/assets/images/maps/farm.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "public/assets/images/maps/forest.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "public/assets/images/maps/lake.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "public/assets/images/objects/house.png",
+      "bytes": 1784,
+      "sha256": "d146e9a5d2cc2a6c78bfa9a96f68f43eaa71a3081bac927b908f3e1c33ad9d0f",
+      "png_width": 112,
+      "png_height": 80
+    },
+    {
+      "path": "public/assets/images/tilesets/dirt.png",
+      "bytes": 2037,
+      "sha256": "4ac254268b4d2176a19340bd561f8a5cbb544ad13953ba2cd877812840266b52",
+      "png_width": 128,
+      "png_height": 128
+    },
+    {
+      "path": "public/assets/images/tilesets/grass.png",
+      "bytes": 3971,
+      "sha256": "0e6038980b9fb559361cd5da0910412194191c849e15b1aa3a72805df38857f0",
+      "png_width": 160,
+      "png_height": 128
+    },
+    {
+      "path": "public/assets/images/tilesets/water.png",
+      "bytes": 251,
+      "sha256": "02ce64243bb17f62fff0bd44abf661ab5efb8dd6a85fd7e304e73e2fd3188f95",
+      "png_width": 64,
+      "png_height": 16
+    },
+    {
+      "path": "public/assets/images/ui/emoji_sheet.png",
+      "bytes": 31456,
+      "sha256": "078cf93dd4e8f6e72bca5fbc854f6154290086d6c2ad92c18d03158d15b7d002",
+      "png_width": 160,
+      "png_height": 608
+    },
+    {
+      "path": "public/assets/images/ui/inventory/inventory_blocks.png",
+      "bytes": 1530,
+      "sha256": "adce975022f3b4ae97c1828ad13528d90c730138c561900bdf5b7a41e05867ea",
+      "png_width": 144,
+      "png_height": 144
+    },
+    {
+      "path": "public/assets/images/ui/inventory/inventory_hearts.png",
+      "bytes": 3306,
+      "sha256": "c5eb1ec30e3cbaebaa046ffdf98993947c4c68c724cc86236c151b0ebb79f3bb",
+      "png_width": 112,
+      "png_height": 336
+    },
+    {
+      "path": "public/assets/images/ui/inventory/inventory_sheet.png",
+      "bytes": 10413,
+      "sha256": "e8b954a1d6dcb7c5d14754cb4764500ec4e8aa59810af8ae3d4b4ddd389cf347",
+      "png_width": 368,
+      "png_height": 336
+    },
+    {
+      "path": "src/config/constants.js",
+      "bytes": 5532,
+      "sha256": "116936034b9e5ad45071cabae8c9f9e4919a9688ae8453a56336fa568d1be2c5"
+    },
+    {
+      "path": "src/config/gameConfig.js",
+      "bytes": 900,
+      "sha256": "3ba4ea2c32d60cc9ca7a0e11f8e8c6a9a321079cae4b5acbfdcfc3bcb0931445"
+    },
+    {
+      "path": "src/data/achievements.json",
+      "bytes": 1308,
+      "sha256": "f0aa99689ba9f0fb6f575585a3afffebb0aa55751db8892a79af1accd4bf9fd2"
+    },
+    {
+      "path": "src/data/crops.json",
+      "bytes": 668,
+      "sha256": "2b0eefc28e241ff8d7bc8e03504481b3340c3bfaed553706f014e24196531c71"
+    },
+    {
+      "path": "src/data/decorations.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "src/data/fish.json",
+      "bytes": 1031,
+      "sha256": "f327c7442a22c8ec429e50031369854540badbfd665716a50ffa1483c81dcfe7"
+    },
+    {
+      "path": "src/data/items.json",
+      "bytes": 4846,
+      "sha256": "29bd66ac535ececd5c9e793c6c8c670cacafff217254b95fd059a1bf00c66364"
+    },
+    {
+      "path": "src/data/npcs.json",
+      "bytes": 4102,
+      "sha256": "abee9aadf5d204acf49f057b9ccc9a4208d498f6a1db05774981b7e16767c443"
+    },
+    {
+      "path": "src/data/quests.json",
+      "bytes": 1350,
+      "sha256": "e8e50d663463db6df52df9cc3b40927b3266381b174d95b29a5ecda2a62e6b12"
+    },
+    {
+      "path": "src/data/upgrades.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "src/entities/Animal.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/entities/NPC.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/entities/Player.js",
+      "bytes": 5734,
+      "sha256": "b22cbabc932664277225736612f9b1272b2fe71708981516aaa53361a48af526"
+    },
+    {
+      "path": "src/main.js",
+      "bytes": 826,
+      "sha256": "a2b0ca793bc67b4928befa22af21219d59e465261d88d4f994f1d757e68579a9"
+    },
+    {
+      "path": "src/scenes/BootScene.js",
+      "bytes": 220,
+      "sha256": "975acbacef2fb61aecee4657fc85c734c404ae40c9e53786fd6fa6b97514ee96"
+    },
+    {
+      "path": "src/scenes/FarmScene.js",
+      "bytes": 41163,
+      "sha256": "27d175eca38f1bbf6a136d37db7bd350d4e78bba404570d10352e56aeff0dc99"
+    },
+    {
+      "path": "src/scenes/ForestScene.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/scenes/LakeScene.js",
+      "bytes": 25469,
+      "sha256": "a17c9fcb605c1c95e7ac991f8dd0cf6791787ca34762002c0dd9ef9f79ebc501"
+    },
+    {
+      "path": "src/scenes/MainMenuScene.js",
+      "bytes": 2773,
+      "sha256": "1d1450a21d8e8dac0a3d7399a41909eda4288deea4cfb2b24e06c033bb500a9c"
+    },
+    {
+      "path": "src/scenes/PreloadScene.js",
+      "bytes": 1677,
+      "sha256": "82fa75652142037921b37647acafade448bfab9ea952573fe2583631ebb57b12"
+    },
+    {
+      "path": "src/scenes/UIScene.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/systems/AchievementSystem.js",
+      "bytes": 5434,
+      "sha256": "14242ea46d0f5fed1e26c3adbec2ad5d065130078cb178ac98710dfa278a64f4"
+    },
+    {
+      "path": "src/systems/DecorationSystem.js",
+      "bytes": 5562,
+      "sha256": "f926123dba08f705b13bf3a57c2ab69a4f5e58f05e144d5440445c2384add17e"
+    },
+    {
+      "path": "src/systems/EconomySystem.js",
+      "bytes": 5199,
+      "sha256": "f31ae2e9831829785e6b381a8a44b224dae2901fb72bd44d6658fd5e40b2d992"
+    },
+    {
+      "path": "src/systems/FarmingSystem.js",
+      "bytes": 10843,
+      "sha256": "5cee5fb9d3ef23314702440d3dac2e85ef14211251fe212e86febfeaee8bcb9e"
+    },
+    {
+      "path": "src/systems/FishingSystem.js",
+      "bytes": 6759,
+      "sha256": "b6c6ea150e5db808791bad4d72c3f2e294c2555935379c452d9be5b72a4527cb"
+    },
+    {
+      "path": "src/systems/InventorySystem.js",
+      "bytes": 4607,
+      "sha256": "135f688eda851d68d8b5ae09bb796ab9b087479f00f01b4d50972fd05ed03c50"
+    },
+    {
+      "path": "src/systems/ItemSystem.js",
+      "bytes": 2614,
+      "sha256": "2eceb2b38c985712a709b5688c8ea42f47c14c4f37697c6bcd3d879a2bb192f9"
+    },
+    {
+      "path": "src/systems/NPCSystem.js",
+      "bytes": 10038,
+      "sha256": "06e56fe3387024383cc10888eee56c4a6ba0cac6aec3c9633877b4392a4184a1"
+    },
+    {
+      "path": "src/systems/QuestSystem.js",
+      "bytes": 7896,
+      "sha256": "5cc1496139145e242a66c85f5626863e701710f436eaa96185806bd562232985"
+    },
+    {
+      "path": "src/systems/SaveSystem.js",
+      "bytes": 18480,
+      "sha256": "3f5a7935a478d80a67e537e5bcae69ca46abdf4a31dc55b55875f51d7f252bf2"
+    },
+    {
+      "path": "src/systems/TimeSystem.js",
+      "bytes": 4536,
+      "sha256": "9be60b87ca9ddcc05f9723b1ddc949a6d1cda61aa024a6773913633d2eebaeba"
+    },
+    {
+      "path": "src/systems/WeatherSystem.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/ui/AchievementPopup.js",
+      "bytes": 4395,
+      "sha256": "fc692a2cf62c1a97b0b55f7ea512d4e8411063436c2c1fc2416f0533d0920b26"
+    },
+    {
+      "path": "src/ui/AchievementUI.js",
+      "bytes": 5931,
+      "sha256": "01c16aa44fc99c0b687db2fd7d53cfe45860c3b0a8d20a997eb97aba0838596b"
+    },
+    {
+      "path": "src/ui/ActionButtons.js",
+      "bytes": 1258,
+      "sha256": "26657ddbd644ee3de87bdbafb81138962c691889ff165fda25a15f2cdeb599fe"
+    },
+    {
+      "path": "src/ui/BuildUI.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/ui/InventoryUI.js",
+      "bytes": 5478,
+      "sha256": "9f81e80689b55b83fd1a11b245f0742ff97ffc2a46c9c43b509cda0259b8506b"
+    },
+    {
+      "path": "src/ui/QuestUI.js",
+      "bytes": 7885,
+      "sha256": "4448d424709b531ea05df7cdabdf94c68e82ab20c3261549b5a3ee0856e4637f"
+    },
+    {
+      "path": "src/ui/ShopUI.js",
+      "bytes": 5422,
+      "sha256": "3394df87514f874660635a765709f7a64fe3e36b62931293d27ccad77a79d6c8"
+    },
+    {
+      "path": "src/ui/StatusUI.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/ui/ToastUI.js",
+      "bytes": 3100,
+      "sha256": "6b6eb97d1129448a886b3b1d85a88ca35cd708eee35cafc5b4d37860a6481853"
+    },
+    {
+      "path": "src/ui/TouchButtons.js",
+      "bytes": 3313,
+      "sha256": "2a1caeb60b5e3593a195843ae5d11e05b2b41f1c3981b3a63d57c934d2df835e"
+    },
+    {
+      "path": "src/ui/VirtualPad.js",
+      "bytes": 2879,
+      "sha256": "cab51e1fe6aa477022ef623f98450755e0e06be19b52011516466754a4084f35"
+    },
+    {
+      "path": "src/utils/EventBus.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/utils/Helpers.js",
+      "bytes": 20,
+      "sha256": "d89b2ed335cd753155e1df19420d380fa104e84ec5ff03f86fd23c68910ef16c"
+    },
+    {
+      "path": "src/utils/SaveManager.js",
+      "bytes": 2408,
+      "sha256": "46080fdfde56cb753c8d8dbb16402cbbd32e4201ecf57b01e9dfbe6b119cdb5e"
+    },
+    {
+      "path": "tests/achievement.test.js",
+      "bytes": 7369,
+      "sha256": "3da5e7b4fd21605bdaa02d857a90123e80a72f63b702f206c213f63c394b3c3c"
+    },
+    {
+      "path": "tests/audit.test.js",
+      "bytes": 13060,
+      "sha256": "a0299bcaae46967bb9940df02abf02b38e8f8d1b409a23673f386a58ba5c5f38"
+    },
+    {
+      "path": "tests/decoration.test.js",
+      "bytes": 8719,
+      "sha256": "4fd1bb5a78a2a16f8617e7dbecedfc09b17a395667a942af065080ffff8efd7b"
+    },
+    {
+      "path": "tests/economy.test.js",
+      "bytes": 8240,
+      "sha256": "1afa5216c27d24ce48d355f4781f0ad04cab30064b387c4eceac92801e526a91"
+    },
+    {
+      "path": "tests/farming.test.js",
+      "bytes": 5184,
+      "sha256": "d95f47833d7c8ee66f333eae41b59cc4de04dc72b845830f90135c2dc67c8ee5"
+    },
+    {
+      "path": "tests/integration.test.js",
+      "bytes": 10537,
+      "sha256": "a4d260ff3a3b550b984850372ca81ea79770dbbcff97fa64a62a9af9be10ea13"
+    },
+    {
+      "path": "tests/inventory.test.js",
+      "bytes": 2898,
+      "sha256": "d5acbbbdf4ef6eb42712a9a0a66b1995ed3d204816897398902a36a052a49046"
+    },
+    {
+      "path": "tests/npc.test.js",
+      "bytes": 9805,
+      "sha256": "c0bf3899f3d03e628ff23c5d157d6be85f4bd3fc825593cb2399fcdd3fa17c62"
+    },
+    {
+      "path": "tests/phase13.test.js",
+      "bytes": 7793,
+      "sha256": "3ed14ed62dc69be96feb20f03ad6fc35a9af8c2b8df401142a6ff9f6ed2fb563"
+    },
+    {
+      "path": "tests/phase14.test.js",
+      "bytes": 6426,
+      "sha256": "fe6a08be712abbca1115108360d9271f973986b1fc6bd08d296ac08f3842ea71"
+    },
+    {
+      "path": "tests/phase15.test.js",
+      "bytes": 4843,
+      "sha256": "39d8451efcbdf003a2b71527c8abc4913d167f9d6522cbdae09ed366fd63de9f"
+    },
+    {
+      "path": "tests/phase16.test.js",
+      "bytes": 7948,
+      "sha256": "5869c52d1f29cf696d44423e3215423c850511681940ac32fc10686eef0919c6"
+    },
+    {
+      "path": "tests/phase17.test.js",
+      "bytes": 8942,
+      "sha256": "235d7373689b97755ccf802d24d101b41240167e62d9ff04e2bc76001a78218c"
+    },
+    {
+      "path": "tests/phase18.test.js",
+      "bytes": 10644,
+      "sha256": "69012518c198d4db63ad8fd6e498a2fffdd880e2c6339fe5670254c80221a3b6"
+    },
+    {
+      "path": "tests/quest.test.js",
+      "bytes": 8001,
+      "sha256": "6e1694904c96fd7481cfd26d149010900ff10abebd12e2e1122db41a3391c3fb"
+    },
+    {
+      "path": "tests/save-manager.test.js",
+      "bytes": 1845,
+      "sha256": "c55ad1764fdc4497e4aeaf321eddcf206bb18dec1f465315df31c749ad7ab2fe"
+    },
+    {
+      "path": "tests/save.test.js",
+      "bytes": 23322,
+      "sha256": "a3c0737819d5e4df02cfe25f1a0b7ff93dbbb5239d28df883326a06f7dc0b75d"
+    },
+    {
+      "path": "tests/time.test.js",
+      "bytes": 5218,
+      "sha256": "26648734dadfe633aba8a86984e94ebffbfd58536822ec955d5d165c01b89518"
+    },
+    {
+      "path": "tests/ui.test.js",
+      "bytes": 8394,
+      "sha256": "5aa0b27ac9caea4e704b078491a2f1628073a70edaf3e21ae3dd863264bfcd69"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 334,
+      "sha256": "a0143f40daa92de84d6d7f4da4b91b9fafb097b235495b3cb7950dc3d3f8cae1"
+    }
+  ]
+}

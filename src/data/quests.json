@@ -1,0 +1,64 @@
+{
+  "first_harvest": {
+    "id": "first_harvest",
+    "title": "First Harvest",
+    "description": "Harvest your first crop.",
+    "giverNpcId": "farmer_ada",
+    "autoStart": true,
+    "objectives": {
+      "harvest_carrot": 1
+    },
+    "reward": {
+      "gold": 50,
+      "items": [
+        { "id": "seed_carrot", "quantity": 3 }
+      ]
+    }
+  },
+  "fisher_friend": {
+    "id": "fisher_friend",
+    "title": "Fisher's Friend",
+    "description": "Catch 3 fish of any kind.",
+    "giverNpcId": "fisher_jo",
+    "autoStart": false,
+    "objectives": {
+      "catch_fish": 3
+    },
+    "reward": {
+      "gold": 80,
+      "items": []
+    }
+  },
+  "decorator": {
+    "id": "decorator",
+    "title": "Little Decorator",
+    "description": "Place 3 decorations on the farm.",
+    "giverNpcId": "merchant_tom",
+    "autoStart": false,
+    "objectives": {
+      "place_decoration": 3
+    },
+    "reward": {
+      "gold": 100,
+      "items": [
+        { "id": "decoration_lamp", "quantity": 1 }
+      ]
+    }
+  },
+  "first_gold": {
+    "id": "first_gold",
+    "title": "Entrepreneur",
+    "description": "Earn 200 gold total.",
+    "giverNpcId": "merchant_tom",
+    "autoStart": false,
+    "objectives": {
+      "earn_gold": 200
+    },
+    "reward": {
+      "gold": 100,
+      "items": [
+        { "id": "seed_tomato", "quantity": 2 }
+      ]
+    }
+  }
+}

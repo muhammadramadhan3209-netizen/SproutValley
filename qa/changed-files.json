@@ -1,0 +1,517 @@
+{
+  "comparison": "Uploaded ZIP vs deliverable",
+  "summary": {
+    "modified": 35,
+    "added": 52,
+    "removed_or_omitted": 18
+  },
+  "files": [
+    {
+      "path": ".github/workflows/android-build.yml",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "LAPORAN_V1.1.md",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "README.md",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "android/app/build.gradle",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/farming/crop_items.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/objects/fences.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/images/objects/furniture.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/index-D0WYgJ9k.js",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "android/app/src/main/assets/public/index.html",
+      "status": "modified",
+      "generated": true
+    },
+    {
+      "path": "android/app/src/main/java/com/sproutvalley/app/MainActivity.java",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "dist/assets/images/characters/player/player.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/farming/crop_items.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/farming/plants.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/farming/plants_watered.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/farming/tools.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/fishing/fish_sheet.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/fishing/medium_fish_strip.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/fishing/rod.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/fishing/rod2.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/fishing/small_fish_strip.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/maps/farm.json",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/maps/forest.json",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/maps/lake.json",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/objects/fences.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/objects/furniture.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/objects/house.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/tilesets/dirt.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/tilesets/grass.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/tilesets/water.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/ui/emoji_sheet.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/ui/inventory/inventory_blocks.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/ui/inventory/inventory_hearts.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/images/ui/inventory/inventory_sheet.png",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/assets/index-D0WYgJ9k.js",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "dist/index.html",
+      "status": "added",
+      "generated": true
+    },
+    {
+      "path": "index.html",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "package-lock.json",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "package.json",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "public/assets/images/farming/crop_items.png",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "public/assets/images/objects/fences.png",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "public/assets/images/objects/furniture.png",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/asset-provenance.json",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/browser/farm-landscape.png",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/browser/farm-wide.png",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/browser/lake-landscape.png",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/browser/results.json",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/bundle-check.json",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/capacitor-sync.log",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/npm-build.log",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/npm-test.log",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "qa/project-inventory.json",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "src/config/assetFrames.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "src/config/constants.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/config/gameConfig.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/config/mobileLayout.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "src/data/items.json",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/entities/Player.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/main.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/scenes/FarmScene.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/scenes/LakeScene.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/scenes/MainMenuScene.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/scenes/PreloadScene.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/systems/DecorationSystem.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/systems/FarmingSystem.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/systems/ItemSystem.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/systems/NPCSystem.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/AchievementUI.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/ActionButtons.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/InventoryUI.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/QuestUI.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/ShopUI.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/ToastUI.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/TouchButtons.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/VirtualPad.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "src/ui/dialogLayout.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "src/ui/sceneLayout.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "src/utils/playerMovement.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "src/utils/worldPhysics.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "tests/assets.test.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "tests/browser/mobile.smoke.cjs",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "tests/farming.test.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "tests/helpers/sceneStub.js",
+      "status": "added",
+      "generated": false
+    },
+    {
+      "path": "tests/phase13.test.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "tests/phase14.test.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "tests/phase16.test.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "tests/phase18.test.js",
+      "status": "modified",
+      "generated": false
+    },
+    {
+      "path": "android/app/src/main/assets/public/assets/index-d0tJC914.js",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/incremental/debug/packageDebugResources/merger.xml",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/capacitor-cordova-android-plugins/build/outputs/logs/manifest-merger-debug-report.txt",
+      "status": "removed or replaced generated artifact"
+    },
+    {
+      "path": "android/local.properties",
+      "status": "omitted machine config"
+    }
+  ]
+}

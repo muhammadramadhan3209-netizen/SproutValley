@@ -1,0 +1,50 @@
+{
+  "fish_common_brown": {
+    "id": "fish_common_brown",
+    "name": "River Bass",
+    "rarity": "common",
+    "chance": 0.30,
+    "sellPrice": 20,
+    "iconFrame": 1
+  },
+  "fish_common_orange": {
+    "id": "fish_common_orange",
+    "name": "Carp",
+    "rarity": "common",
+    "chance": 0.30,
+    "sellPrice": 25,
+    "iconFrame": 0
+  },
+  "fish_uncommon_blue": {
+    "id": "fish_uncommon_blue",
+    "name": "Bluegill",
+    "rarity": "uncommon",
+    "chance": 0.18,
+    "sellPrice": 60,
+    "iconFrame": 4
+  },
+  "fish_uncommon_cyan": {
+    "id": "fish_uncommon_cyan",
+    "name": "Silver Carp",
+    "rarity": "uncommon",
+    "chance": 0.12,
+    "sellPrice": 75,
+    "iconFrame": 5
+  },
+  "fish_rare_gold": {
+    "id": "fish_rare_gold",
+    "name": "Golden Koi",
+    "rarity": "rare",
+    "chance": 0.06,
+    "sellPrice": 200,
+    "iconFrame": 42
+  },
+  "fish_rare_treasure": {
+    "id": "fish_rare_treasure",
+    "name": "Treasure Chest",
+    "rarity": "rare",
+    "chance": 0.04,
+    "sellPrice": 500,
+    "iconFrame": 49
+  }
+}

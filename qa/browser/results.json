@@ -1,0 +1,42 @@
+{
+  "production": true,
+  "results": [
+    {
+      "name": "Farm boot, sliced textures, feet body and initialized soil",
+      "passed": true
+    },
+    {
+      "name": "Keyboard four directions animate both steps and return to matching idle",
+      "passed": true
+    },
+    {
+      "name": "Real touch drag, diagonal speed, second finger action and release",
+      "passed": true
+    },
+    {
+      "name": "Camera-scrolled menu hitboxes, modal movement lock and touch close",
+      "passed": true
+    },
+    {
+      "name": "Touch till, plant, water, growth frames and harvest inventory",
+      "passed": true
+    },
+    {
+      "name": "World bounds and colliders block movement at the shore and house",
+      "passed": true
+    },
+    {
+      "name": "Wide landscape fills view, camera stays in bounds, portrait pauses input",
+      "passed": true
+    },
+    {
+      "name": "Existing Farm/Lake portals, Lake input/fishing and safe saved re-entry",
+      "passed": true
+    }
+  ],
+  "browserErrors": [],
+  "browserDiagnostics": [
+    "Ignored attempt to cancel a touchcancel event with cancelable=false, for example because scrolling is in progress and cannot be interrupted.",
+    "Ignored attempt to cancel a touchcancel event with cancelable=false, for example because scrolling is in progress and cannot be interrupted."
+  ]
+}

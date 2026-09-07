@@ -1,0 +1,16 @@
+node_modules
+dist
+android/.gradle
+android/app/build
+android/build
+android/local.properties
+android/.idea
+android/*.iml
+android/app/release
+android/app/debug
+.DS_Store
+*.log
+.agents/
+ASSET_PACKS/
+node_modules/
+dist/

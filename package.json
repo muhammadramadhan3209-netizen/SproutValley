@@ -1,0 +1,25 @@
+{
+  "name": "sprout-valley",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Sprout Valley V1.1 - cozy offline farming sandbox",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "test": "bash -c 'node --test tests/*.test.js'",
+    "cap:sync": "vite build && cap sync android",
+    "cap:add:android": "cap add android",
+    "cap:open:android": "cap open android"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "@capacitor/core": "^8.5.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21",
+    "@capacitor/cli": "^8.5.1",
+    "@capacitor/android": "^8.5.1"
+  }
+}

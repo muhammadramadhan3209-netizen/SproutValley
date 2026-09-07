@@ -1,0 +1,32 @@
+{
+  "carrot": {
+    "id": "carrot",
+    "name": "Carrot",
+    "growthTimeMs": 8000,
+    "stages": 4,
+    "seedId": "seed_carrot",
+    "harvestId": "harvest_carrot",
+    "harvestYield": 1,
+    "regrowable": false
+  },
+  "tomato": {
+    "id": "tomato",
+    "name": "Tomato",
+    "growthTimeMs": 12000,
+    "stages": 4,
+    "seedId": "seed_tomato",
+    "harvestId": "harvest_tomato",
+    "harvestYield": 1,
+    "regrowable": false
+  },
+  "strawberry": {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "growthTimeMs": 16000,
+    "stages": 4,
+    "seedId": "seed_strawberry",
+    "harvestId": "harvest_strawberry",
+    "harvestYield": 2,
+    "regrowable": true
+  }
+}

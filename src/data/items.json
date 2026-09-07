@@ -1,0 +1,209 @@
+{
+  "seed_carrot": {
+    "id": "seed_carrot",
+    "name": "Carrot Seeds",
+    "category": "seed",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 20,
+    "description": "Plant on tilled soil",
+    "iconSheet": "crop_items",
+    "iconFrame": 5
+  },
+  "seed_tomato": {
+    "id": "seed_tomato",
+    "name": "Tomato Seeds",
+    "category": "seed",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 30,
+    "description": "Plant on tilled soil",
+    "iconSheet": "crop_items",
+    "iconFrame": 15
+  },
+  "seed_strawberry": {
+    "id": "seed_strawberry",
+    "name": "Strawberry Seeds",
+    "category": "seed",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 45,
+    "description": "Plant on tilled soil",
+    "iconSheet": "crop_items",
+    "iconFrame": 52
+  },
+  "harvest_carrot": {
+    "id": "harvest_carrot",
+    "name": "Carrot",
+    "category": "crop",
+    "stackable": true,
+    "maxStack": 99,
+    "sellPrice": 25,
+    "description": "Fresh carrot",
+    "iconSheet": "crop_items",
+    "iconFrame": 6
+  },
+  "harvest_tomato": {
+    "id": "harvest_tomato",
+    "name": "Tomato",
+    "category": "crop",
+    "stackable": true,
+    "maxStack": 99,
+    "sellPrice": 35,
+    "description": "Juicy tomato",
+    "iconSheet": "crop_items",
+    "iconFrame": 16
+  },
+  "harvest_strawberry": {
+    "id": "harvest_strawberry",
+    "name": "Strawberry",
+    "category": "crop",
+    "stackable": true,
+    "maxStack": 99,
+    "sellPrice": 50,
+    "description": "Sweet strawberry",
+    "iconSheet": "crop_items",
+    "iconFrame": 53
+  },
+  "material_wood": {
+    "id": "material_wood",
+    "name": "Wood",
+    "category": "material",
+    "stackable": true,
+    "maxStack": 99,
+    "description": "Basic building material",
+    "iconSheet": "ui_emoji_sheet",
+    "iconFrame": 73
+  },
+  "material_stone": {
+    "id": "material_stone",
+    "name": "Stone",
+    "category": "material",
+    "stackable": true,
+    "maxStack": 99,
+    "description": "Hard rock",
+    "iconSheet": "ui_emoji_sheet",
+    "iconFrame": 74
+  },
+  "decoration_wood_fence": {
+    "id": "decoration_wood_fence",
+    "name": "Wood Fence",
+    "category": "decoration",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 50,
+    "description": "Decorative wooden fence",
+    "iconSheet": "object_fences",
+    "iconFrame": 5
+  },
+  "decoration_wooden_chair": {
+    "id": "decoration_wooden_chair",
+    "name": "Wooden Chair",
+    "category": "decoration",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 80,
+    "description": "Cozy wooden chair",
+    "iconSheet": "object_furniture",
+    "iconFrame": 22
+  },
+  "decoration_flower_pot": {
+    "id": "decoration_flower_pot",
+    "name": "Flower Pot",
+    "category": "decoration",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 40,
+    "description": "Potted flower for decor",
+    "iconSheet": "object_furniture",
+    "iconFrame": 3
+  },
+  "decoration_lamp": {
+    "id": "decoration_lamp",
+    "name": "Lamp",
+    "category": "decoration",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 120,
+    "description": "Bright decorative lamp",
+    "iconSheet": "object_furniture",
+    "iconFrame": 12
+  },
+  "decoration_stone_path": {
+    "id": "decoration_stone_path",
+    "name": "Stone Path",
+    "category": "decoration",
+    "stackable": true,
+    "maxStack": 99,
+    "buyPrice": 30,
+    "description": "Decorative stone path tile",
+    "iconSheet": "ui_emoji_sheet",
+    "iconFrame": 74
+  },
+  "fish_common_brown": {
+    "id": "fish_common_brown",
+    "name": "River Bass",
+    "category": "fish",
+    "stackable": true,
+    "maxStack": 99,
+    "iconSheet": "fish_sheet",
+    "iconFrame": 1,
+    "sellPrice": 20,
+    "description": "Common river fish"
+  },
+  "fish_common_orange": {
+    "id": "fish_common_orange",
+    "name": "Carp",
+    "category": "fish",
+    "stackable": true,
+    "maxStack": 99,
+    "iconSheet": "fish_sheet",
+    "iconFrame": 0,
+    "sellPrice": 25,
+    "description": "Common pond fish"
+  },
+  "fish_uncommon_blue": {
+    "id": "fish_uncommon_blue",
+    "name": "Bluegill",
+    "category": "fish",
+    "stackable": true,
+    "maxStack": 99,
+    "iconSheet": "fish_sheet",
+    "iconFrame": 4,
+    "sellPrice": 60,
+    "description": "Pretty blue fish"
+  },
+  "fish_uncommon_cyan": {
+    "id": "fish_uncommon_cyan",
+    "name": "Silver Carp",
+    "category": "fish",
+    "stackable": true,
+    "maxStack": 99,
+    "iconSheet": "fish_sheet",
+    "iconFrame": 5,
+    "sellPrice": 75,
+    "description": "Shiny silver fish"
+  },
+  "fish_rare_gold": {
+    "id": "fish_rare_gold",
+    "name": "Golden Koi",
+    "category": "fish",
+    "stackable": true,
+    "maxStack": 99,
+    "iconSheet": "fish_sheet",
+    "iconFrame": 42,
+    "sellPrice": 200,
+    "description": "Rare golden fish"
+  },
+  "fish_rare_treasure": {
+    "id": "fish_rare_treasure",
+    "name": "Treasure Chest",
+    "category": "fish",
+    "stackable": true,
+    "maxStack": 99,
+    "iconSheet": "fish_sheet",
+    "iconFrame": 49,
+    "sellPrice": 500,
+    "description": "Mysterious chest from the lake"
+  }
+}

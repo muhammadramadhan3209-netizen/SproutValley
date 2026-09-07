@@ -1,0 +1,151 @@
+{
+  "farmer_ada": {
+    "id": "farmer_ada",
+    "name": "Farmer Ada",
+    "scene": "FarmScene",
+    "tileX": 6,
+    "tileY": 6,
+    "spriteKey": "farmer",
+    "availablePhases": ["morning", "noon", "afternoon"],
+    "dialog": {
+      "start": {
+        "id": "start",
+        "text": ["Hello, friend! I'm Ada.", "Welcome to the farm.", "Do you have anything to trade?"],
+        "next": "trade"
+      },
+      "trade": {
+        "id": "trade",
+        "text": ["If you harvest crops, bring them to me.", "I'll give you a fair price."],
+        "next": "advice"
+      },
+      "advice": {
+        "id": "advice",
+        "text": ["Plant seeds, water them, then wait.", "Crops grow faster in the morning."],
+        "choices": [
+          {
+            "label": "Can you teach me the basics?",
+            "next": "quest_offer"
+          }
+        ]
+      },
+      "quest_offer": {
+        "id": "quest_offer",
+        "text": ["Try harvesting a single carrot.", "I'll reward you for your first crop."],
+        "choices": [
+          {
+            "label": "I'll do it!",
+            "effects": [{ "type": "start_quest", "questId": "first_harvest" }],
+            "next": "bye"
+          },
+          {
+            "label": "Maybe later",
+            "next": "bye"
+          }
+        ]
+      },
+      "bye": {
+        "id": "bye",
+        "text": ["See you soon!"]
+      }
+    }
+  },
+  "merchant_tom": {
+    "id": "merchant_tom",
+    "name": "Merchant Tom",
+    "scene": "FarmScene",
+    "tileX": 11,
+    "tileY": 4,
+    "spriteKey": "merchant",
+    "availablePhases": ["morning", "noon", "afternoon", "evening"],
+    "dialog": {
+      "start": {
+        "id": "start",
+        "text": ["Welcome to my shop!", "I sell seeds and decorations."],
+        "next": "offer"
+      },
+      "offer": {
+        "id": "offer",
+        "text": ["Open the shop with the P key anytime.", "Want to make some extra gold?"],
+        "choices": [
+          {
+            "label": "Sure, what's the work?",
+            "next": "quest_decorator"
+          },
+          {
+            "label": "Maybe later",
+            "next": "farewell"
+          }
+        ]
+      },
+      "quest_decorator": {
+        "id": "quest_decorator",
+        "text": ["Decorate my farm with three pieces.", "I'll pay you for the help."],
+        "choices": [
+          {
+            "label": "Consider it done",
+            "effects": [{ "type": "start_quest", "questId": "decorator" }],
+            "next": "quest_economist"
+          },
+          {
+            "label": "Not right now",
+            "next": "farewell"
+          }
+        ]
+      },
+      "quest_economist": {
+        "id": "quest_economist",
+        "text": ["Also, prove yourself as a merchant.", "Earn 200 gold total and I'll tip you extra."],
+        "choices": [
+          {
+            "label": "Deal",
+            "effects": [{ "type": "start_quest", "questId": "first_gold" }],
+            "next": "farewell"
+          },
+          {
+            "label": "Maybe later",
+            "next": "farewell"
+          }
+        ]
+      },
+      "farewell": {
+        "id": "farewell",
+        "text": ["See you around the farm!"]
+      }
+    }
+  },
+  "fisher_jo": {
+    "id": "fisher_jo",
+    "name": "Fisher Jo",
+    "scene": "LakeScene",
+    "tileX": 5,
+    "tileY": 5,
+    "spriteKey": "fisher",
+    "availablePhases": ["morning", "afternoon", "evening"],
+    "dialog": {
+      "start": {
+        "id": "start",
+        "text": ["Shhh! Don't scare the fish.", "Try the lake at evening for rare catches."],
+        "next": "tip"
+      },
+      "tip": {
+        "id": "tip",
+        "text": ["Fishing at night is faster but rarer fish show up.", "I could use a hand catching three."],
+        "choices": [
+          {
+            "label": "I'll catch three for you",
+            "effects": [{ "type": "start_quest", "questId": "fisher_friend" }],
+            "next": "bye"
+          },
+          {
+            "label": "Not now",
+            "next": "bye"
+          }
+        ]
+      },
+      "bye": {
+        "id": "bye",
+        "text": ["Good luck!"]
+      }
+    }
+  }
+}
